@@ -20,11 +20,11 @@ const getGadget = async function (request){
     classifier.train();
 
     // Write the content
-    var raw = JSON.stringify(classifier);
+    /* var raw = JSON.stringify(classifier);
     fs.writeFile('./mockdata/classifier.json', raw, function (err) {
       if (err) return console.log(err);
       console.log('WriteFile')
-    })
+    }) */
 
   } finally {
 

@@ -1057,126 +1057,6 @@
 			"label": "low"
 		},
 		{
-			"text": "Notebook para uso cotidiano",
-			"label": "nlow"
-		},
-		{
-			"text": "Notebook para o dia a dia",
-			"label": "nlow"
-		},
-		{
-			"text": "Notebook para aplicações simples",
-			"label": "nlow"
-		},
-		{
-			"text": "Notebook para programas leves",
-			"label": "nlow"
-		},
-		{
-			"text": "Notebook para trabalhar e estudar",
-			"label": "nlow"
-		},
-		{
-			"text": "Notebook para faculdade",
-			"label": "nlow"
-		},
-		{
-			"text": "Notebook para estudar",
-			"label": "nlow"
-		},
-		{
-			"text": "Notebook para estudos",
-			"label": "nlow"
-		},
-		{
-			"text": "Notebook para programar",
-			"label": "nlow"
-		},
-		{
-			"text": "Notebook para trabalhar",
-			"label": "nlow"
-		},
-		{
-			"text": "Notebopok para escritório",
-			"label": "nlow"
-		},
-		{
-			"text": "Notebook para uso simples",
-			"label": "nlow"
-		},
-		{
-			"text": "Notebook para lazer",
-			"label": "nlow"
-		},
-		{
-			"text": "Notebook para uso doméstico",
-			"label": "nlow"
-		},
-		{
-			"text": "Notebook barato",
-			"label": "nlow"
-		},
-		{
-			"text": "Notebook de baixo custo",
-			"label": "nlow"
-		},
-		{
-			"text": "Notebook para uso leve",
-			"label": "nlow"
-		},
-		{
-			"text": "Notebok para rodar programas leves",
-			"label": "nlow"
-		},
-		{
-			"text": "Notebook para games leves",
-			"label": "nlow"
-		},
-		{
-			"text": "Notebook para jogos leves",
-			"label": "nlow"
-		},
-		{
-			"text": "Notebook para usar o word",
-			"label": "nlow"
-		},
-		{
-			"text": "Notebook para excel e planilhas",
-			"label": "nlow"
-		},
-		{
-			"text": "Notebook para rodar jogos pesados",
-			"label": "nhigh"
-		},
-		{
-			"text": "Notebook para rodar softwares pesados",
-			"label": "nhigh"
-		},
-		{
-			"text": "Notebook com alto desempenho",
-			"label": "nhigh"
-		},
-		{
-			"text": "Notebook para edição",
-			"label": "nhigh"
-		},
-		{
-			"text": "Notebook para modelagem 3D",
-			"label": "nhigh"
-		},
-		{
-			"text": "Notebook para render",
-			"label": "nhigh"
-		},
-		{
-			"text": "Notebook para containers docker",
-			"label": "nhigh"
-		},
-		{
-			"text": "Notebook para maquete eletrônica",
-			"label": "nhigh"
-		},
-		{
 			"text": "PC para produtividade",
 			"label": "low"
 		},
@@ -1373,34 +1253,6 @@
 			"label": "xlow"
 		},
 		{
-			"text": "Notebook para games",
-			"label": "nlow"
-		},
-		{
-			"text": "Notebook gamer",
-			"label": "nlow"
-		},
-		{
-			"text": "Notebook para o dia a dia",
-			"label": "nlow"
-		},
-		{
-			"text": "Notebook para uso leve",
-			"label": "nlow"
-		},
-		{
-			"text": "Notebook para uso leve",
-			"label": "nlow"
-		},
-		{
-			"text": "Notebook para estudar",
-			"label": "nlow"
-		},
-		{
-			"text": "Notebook para faculdade",
-			"label": "nlow"
-		},
-		{
 			"text": "Pc para edição de vídeo",
 			"label": "high"
 		},
@@ -1414,7 +1266,7 @@
 		},
 		{
 			"text": "Estudo e trabalho",
-			"label": "nlow"
+			"label": "low"
 		},
 		{
 			"text": "jogar red dead redemption 2",
@@ -1422,7 +1274,7 @@
 		},
 		{
 			"text": "Programação",
-			"label": "nlow"
+			"label": "low"
 		},
 		{
 			"text": "Jogos atuais e desenvolvimento de aplicações em python",
@@ -1625,10 +1477,6 @@
 			"label": "high"
 		},
 		{
-			"text": "Portátil e potente",
-			"label": "nhigh"
-		},
-		{
 			"text": "Para restaurante",
 			"label": "low"
 		},
@@ -1705,10 +1553,6 @@
 			"label": "medium"
 		},
 		{
-			"text": "Notebook para trabalho",
-			"label": "nlow"
-		},
-		{
 			"text": "Estudos, trabalho e jogar ",
 			"label": "medium"
 		},
@@ -1761,7 +1605,7 @@
 			"label": "xlow"
 		},
 		{
-			"text": "Procuro um notebook para jogar em qualidade média ou baixa. Bastante memória RAM",
+			"text": "Procuro um Procuro um notebook para jogar em qualidade média ou baixa. Bastante memória RAM",
 			"label": "medium"
 		},
 		{
@@ -1791,6 +1635,110 @@
 		{
 			"text": "Quero um pc para edição",
 			"label": "high"
+		},
+		{
+			"text": "Quero um pc para jogos leves como League of Legends e para trabalhos com artes digitais",
+			"label": "low"
+		},
+		{
+			"text": "Procuro um pc para jogos leves e principalmente para trabalhos em programas como Corel, Figma, ilustrator ou Photoshop.",
+			"label": "low"
+		},
+		{
+			"text": "Procuro um computador para rodar jogos leves como MTG Arena e para trabalhos com artes digitais em programas como Photoshop, Corel, Figma e ilustrator",
+			"label": "low"
+		},
+		{
+			"text": "Programas como Photoshop e ilustrator",
+			"label": "low"
+		},
+		{
+			"text": "Artes digitais em programas como illustrator e Photoshop",
+			"label": "low"
+		},
+		{
+			"text": "procuro um computador para jogos leves como League of Legends ou MTG Arena e para trabalhos com artes digitais em programas como Corel, Figma, ilustrator ou Photoshop.",
+			"label": "low"
+		},
+		{
+			"text": "procuro um notebook para games",
+			"label": "nhigh"
+		},
+		{
+			"text": "Quero um notebook para jogos pesados",
+			"label": "nhigh"
+		},
+		{
+			"text": "procuro um notebook para edição de vídeo",
+			"label": "nhigh"
+		},
+		{
+			"text": "Quero um note com alta performance",
+			"label": "nhigh"
+		},
+		{
+			"text": "procuro notebook para uso cotidiano",
+			"label": "nlow"
+		},
+		{
+			"text": "procuro notebook para faculdade",
+			"label": "nlow"
+		},
+		{
+			"text": "procuro por um notebook barato",
+			"label": "nlow"
+		},
+		{
+			"text": "Quero notebook barato de baixo custo",
+			"label": "nlow"
+		},
+		{
+			"text": "procuro note barato",
+			"label": "nlow"
+		},
+		{
+			"text": "procuro notebook custo benefício",
+			"label": "nlow"
+		},
+		{
+			"text": "Quero um notebook barato",
+			"label": "nlow"
+		},
+		{
+			"text": "Quero um laptop barato",
+			"label": "nlow"
+		},
+		{
+			"text": "Quero um laptop para trabalhar",
+			"label": "nlow"
+		},
+		{
+			"text": "Quero um laptop para faculdade",
+			"label": "nlow"
+		},
+		{
+			"text": "Procuro um notebook para faculdade",
+			"label": "nlow"
+		},
+		{
+			"text": "Quero um laptop para estudar",
+			"label": "nlow"
+		},
+		{
+			"text": "procuro notebook para rodar programas leves",
+			"label": "nlow"
+		},
+		{
+			"text": "procuro notebook para faculdade",
+			"label": "nlow"
+		},
+		{
+			"text": "procuro notebook para trabalhar",
+			"label": "nlow"
+		},
+		{
+			"text": "procuro notebook para excel",
+			"label": "nlow"
 		}
 	],
 	"tests": [
@@ -1860,26 +1808,6 @@
 		},
 		{
 			"text": "Computador simples",
-			"label": "low"
-		},
-		{
-			"text": "Quero um pc para jogos leves como League of Legends e para trabalhos com artes digitais",
-			"label": "low"
-		},
-		{
-			"text": "Procuro um pc para jogos leves e principalmente para trabalhos em programas como Corel, Figma, ilustrator ou Photoshop.",
-			"label": "low"
-		},
-		{
-			"text": "Procuro um computador para rodar jogos leves como MTG Arena e para trabalhos com artes digitais em programas como Photoshop, Corel, Figma e ilustrator",
-			"label": "low"
-		},
-		{
-			"text": "Programas como Photoshop e ilustrator",
-			"label": "low"
-		},
-		{
-			"text": "Artes digitais em programas como illustrator e Photoshop",
 			"label": "low"
 		}
 	]
