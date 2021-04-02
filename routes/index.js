@@ -9,7 +9,7 @@ router.get('/', async (req, res) => {
   res.status(200).send(`Hello World`)
 })
 
-router.get('/api/learn', async (req, res) => {
+router.post('/api/learn', async (req, res) => {
   res.status(200).send(learn)
 })
 
