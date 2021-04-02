@@ -55,7 +55,7 @@ module.exports = [
     }]
   },
   {
-    title: 'Para que servem as vontoinhas do computador?',
+    title: 'Para que servem as ventoinhas do computador?',
     content: [{
       image: 'https://www.corsair.com/corsairmedia/sys_master/productcontent/CO-9050040-WW-ML_120_01.png',
       description: `Todo computador precisa de um sistema de refrigeração para dissipar o calor produzido durante as milhares trocas de dados que acontecem enquanto a máquina está ligada e desempenhando funções. Para que não aconteça um superaquecimento em seu computador, o Cooler é a peça responsável por refrigerar o processador e alguns componentes como a placa mãe para que a temperatura interna permanece em níveis seguros. Em comum entre todos os coolers está a presença dos fans, espécie de ventiladores que, com algumas diferenças a depender do tipo de cooler, servem para movimentar o calor produzido e dissipá-lo. Todos os computadores e notebooks já saem de fábrica com sistema de refrigeração, sendo a maioria composto por dois ventiladores.`
