@@ -1,92 +1,140 @@
 {
 	"train": [
 		{
-			"text": "Administração",
-			"label": "xlow"
+			"text": "procuro notebook para uso cotidiano",
+			"label": "nlow"
 		},
 		{
-			"text": "Leves",
-			"label": "low"
+			"text": "procuro notebook para faculdade",
+			"label": "nlow"
 		},
 		{
-			"text": "720p",
-			"label": "low"
+			"text": "procuro por um notebook barato",
+			"label": "nlow"
 		},
 		{
-			"text": "Jogos Leves",
-			"label": "low"
+			"text": "Quero notebook barato de baixo custo",
+			"label": "nlow"
 		},
 		{
-			"text": "Games Leves",
-			"label": "low"
+			"text": "procuro note barato",
+			"label": "nlow"
 		},
 		{
-			"text": "Games",
-			"label": "medium"
+			"text": "procuro notebook custo benefício",
+			"label": "nlow"
 		},
 		{
-			"text": "Jogos",
-			"label": "medium"
+			"text": "Quero um notebook barato",
+			"label": "nlow"
 		},
 		{
-			"text": "Jogar",
-			"label": "medium"
+			"text": "Quero um laptop barato",
+			"label": "nlow"
 		},
 		{
-			"text": "Trabalhar e jogar",
-			"label": "medium"
+			"text": "Quero um laptop para trabalhar",
+			"label": "nlow"
 		},
 		{
-			"text": "Trabalho e jogos",
-			"label": "medium"
+			"text": "Quero um laptop para faculdade",
+			"label": "nlow"
 		},
 		{
-			"text": "Vídeo",
-			"label": "high"
+			"text": "Procuro um notebook para faculdade",
+			"label": "nlow"
 		},
 		{
-			"text": "Full HD",
-			"label": "high"
+			"text": "Quero um laptop para estudar",
+			"label": "nlow"
 		},
 		{
-			"text": "1080p",
-			"label": "high"
+			"text": "Preciso um notebook para trabalhar",
+			"label": "nlow"
 		},
 		{
-			"text": "Jogos Pesados",
-			"label": "xhigh"
+			"text": "procuro notebook para rodar programas leves",
+			"label": "nlow"
 		},
 		{
-			"text": "Games Pesados",
-			"label": "xhigh"
+			"text": "procuro notebook para faculdade",
+			"label": "nlow"
 		},
 		{
-			"text": "Streaming",
-			"label": "xhigh"
+			"text": "procuro notebook para trabalhar",
+			"label": "nlow"
 		},
 		{
-			"text": "Ultra",
-			"label": "xhigh"
+			"text": "procuro notebook para excel",
+			"label": "nlow"
 		},
 		{
-			"text": "Pesados",
-			"label": "xhigh"
+			"text": "procuro um Notebook para games",
+			"label": "nhigh"
 		},
 		{
-			"text": "4K",
-			"label": "xhigh"
+			"text": "Quero um Notebook para jogos pesados",
+			"label": "nhigh"
 		},
 		{
-			"text": "3D",
-			"label": "high"
+			"text": "procuro um Notebook para edição de vídeo",
+			"label": "nhigh"
 		},
 		{
-			"text": "Streaming 4K",
-			"label": "xhigh"
+			"text": "Quero um Notebook para trabalhar com computação gráfica",
+			"label": "nhigh"
 		},
 		{
-			"text": "Profissional",
-			"label": "high"
+			"text": "Quero um Notebook para jogar em 4K",
+			"label": "nhigh"
+		},
+		{
+			"text": "Quero um Notebook para modelagem 3D",
+			"label": "nhigh"
+		},
+		{
+			"text": "Preciso de um Notebook para trabalhar com Design",
+			"label": "nhigh"
+		},
+		{
+			"text": "Preciso de um Notebook para trabalhar edição",
+			"label": "nhigh"
+		},
+		{
+			"text": "Preciso de um Notebook para programar aplicativos",
+			"label": "nhigh"
+		},
+		{
+			"text": "Preciso de um Notebook rápido",
+			"label": "nhigh"
+		},
+		{
+			"text": "Preciso de um Notebook potente",
+			"label": "nhigh"
+		},
+		{
+			"text": "Preciso de um Notebook para plicaçõe pesadas",
+			"label": "nhigh"
+		},
+		{
+			"text": "Preciso de um Notebook para trabalhar com CAD",
+			"label": "nhigh"
+		},
+		{
+			"text": "Preciso de um Notebook com performance",
+			"label": "nhigh"
+		},
+		{
+			"text": "Preciso de um Notebook para rodar gamer aaa",
+			"label": "nhigh"
+		},
+		{
+			"text": "Quero um Notebook para rodar emuladores",
+			"label": "nlow"
+		},
+		{
+			"text": "Quero um Notebook para programar",
+			"label": "nlow"
 		},
 		{
 			"text": "Maquina para jogar com raytracing",
@@ -257,19 +305,7 @@
 			"label": "high"
 		},
 		{
-			"text": "Quero um pc para trabalho e games",
-			"label": "high"
-		},
-		{
-			"text": "Preciso de um pc para trabalho e games",
-			"label": "high"
-		},
-		{
 			"text": "Quero um computador para trabalho e games",
-			"label": "high"
-		},
-		{
-			"text": "Preciso de um computador para trabalho e games",
 			"label": "high"
 		},
 		{
@@ -382,14 +418,6 @@
 		},
 		{
 			"text": "Preciso de um pc para edição de vídeo",
-			"label": "high"
-		},
-		{
-			"text": "Pc para edição de vídeo e imagem",
-			"label": "high"
-		},
-		{
-			"text": "PC com windows para Edição de vídeo",
 			"label": "high"
 		},
 		{
@@ -1073,6 +1101,26 @@
 			"label": "low"
 		},
 		{
+			"text": "Procuro um pc para rodar apenas jogos leves como League of Legends",
+			"label": "low"
+		},
+		{
+			"text": "Procuro um pc para rodar League of Legends",
+			"label": "low"
+		},
+		{
+			"text": "League of Legends",
+			"label": "low"
+		},
+		{
+			"text": "League of MTG Arena",
+			"label": "low"
+		},
+		{
+			"text": "League of MTG Arena",
+			"label": "low"
+		},
+		{
 			"text": "Procuro um pc para trabalhos com artes digitais em programas como Corel, Figma, ilustrator ou Photoshop.",
 			"label": "low"
 		},
@@ -1659,86 +1707,6 @@
 		{
 			"text": "procuro um computador para jogos leves como League of Legends ou MTG Arena e para trabalhos com artes digitais em programas como Corel, Figma, ilustrator ou Photoshop.",
 			"label": "low"
-		},
-		{
-			"text": "procuro um notebook para games",
-			"label": "nhigh"
-		},
-		{
-			"text": "Quero um notebook para jogos pesados",
-			"label": "nhigh"
-		},
-		{
-			"text": "procuro um notebook para edição de vídeo",
-			"label": "nhigh"
-		},
-		{
-			"text": "Quero um note com alta performance",
-			"label": "nhigh"
-		},
-		{
-			"text": "procuro notebook para uso cotidiano",
-			"label": "nlow"
-		},
-		{
-			"text": "procuro notebook para faculdade",
-			"label": "nlow"
-		},
-		{
-			"text": "procuro por um notebook barato",
-			"label": "nlow"
-		},
-		{
-			"text": "Quero notebook barato de baixo custo",
-			"label": "nlow"
-		},
-		{
-			"text": "procuro note barato",
-			"label": "nlow"
-		},
-		{
-			"text": "procuro notebook custo benefício",
-			"label": "nlow"
-		},
-		{
-			"text": "Quero um notebook barato",
-			"label": "nlow"
-		},
-		{
-			"text": "Quero um laptop barato",
-			"label": "nlow"
-		},
-		{
-			"text": "Quero um laptop para trabalhar",
-			"label": "nlow"
-		},
-		{
-			"text": "Quero um laptop para faculdade",
-			"label": "nlow"
-		},
-		{
-			"text": "Procuro um notebook para faculdade",
-			"label": "nlow"
-		},
-		{
-			"text": "Quero um laptop para estudar",
-			"label": "nlow"
-		},
-		{
-			"text": "procuro notebook para rodar programas leves",
-			"label": "nlow"
-		},
-		{
-			"text": "procuro notebook para faculdade",
-			"label": "nlow"
-		},
-		{
-			"text": "procuro notebook para trabalhar",
-			"label": "nlow"
-		},
-		{
-			"text": "procuro notebook para excel",
-			"label": "nlow"
 		}
 	],
 	"tests": [
