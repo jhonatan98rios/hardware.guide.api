@@ -37,13 +37,10 @@ module.exports = [
   {
     title: 'O que é o Sistema Operacional?',
     content: [{
+      image: 'https://logodownload.org/wp-content/uploads/2016/03/windows-10-logo-4.png',
       description: `É um programa ou um conjunto de programas cuja função é gerenciar os recursos do sistema e fornecer uma interface entre o hardware e o usuário. Ele funcioná como um tradutor entre os componentes eletrônicos e as ações do usuário através dos dispositivos de entrada e saída (teclado, mouse, monitor, caixa de som). O SO também oferece uma série de APIs que permitem que os desenvolvedores de softwares comuniquem seus programas aos recursos nativos da máquina, como arquivos, rede, camera e outros periféricos. Os Sistemas Operacionais mais populares atualmente são o Windows 10 (da Microsoft), Mac OS (da Apple) e as distribuições Linux, como o Ubuntu e o Android.`
     }]
-  }
-]
-
-
-/* 
+  },
   {
     title: 'O que é uma Fonte de Alimentação',
     content: [{
@@ -52,26 +49,27 @@ module.exports = [
     }]
   },
   {
-  title: 'O que é o Sistema Operacional?',
-  content: [{
-    description: `É um programa ou um conjunto de programas cuja função é gerenciar os recursos do sistema e fornecer uma interface entre o hardware e o usuário. Ele funcioná como um tradutor entre os componentes eletrônicos e as ações do usuário através dos dispositivos de entrada e saída (teclado, mouse, monitor, caixa de som). O SO também oferece uma série de APIs que permitem que os desenvolvedores de softwares comuniquem seus programas aos recursos nativos da máquina, como arquivos, rede, camera e outros periféricos. Os Sistemas Operacionais mais populares atualmente são o Windows 10 (da Microsoft), Mac OS (da Apple) e as distribuições Linux, como o Ubuntu e o Android.`
-  },
-  {
   title: 'Qual a diferença entre um HD e um SSD?',
   content: [{
-    description: `Um HD conta com discos móveis, utilizados para armazenar os dados, e um braço mecânico, que faz a leitura e escrita. A rotação normalmente varia entre 5.400 e 7.200 RPMs (Rotações Por Minuto). O preço por MB é sua principal vantagem sobre o SSD. Um SSD armazena dados em células de memória Flash, as mesmas presentes em smartphones e tablets. 
-A principal diferença entre o HD e o SSD é que o segundo é mais rápido e seguro, por não conter peças móveis.`
+    description: `Um HD conta com discos móveis, utilizados para armazenar os dados, e um braço mecânico, que faz a leitura e escrita. A rotação normalmente varia entre 5.400 e 7.200 RPMs (Rotações Por Minuto). O preço por MB é sua principal vantagem sobre o SSD. Um SSD armazena dados em células de memória Flash, as mesmas presentes em smartphones e tablets. A principal diferença entre o HD e o SSD é que o segundo é mais rápido e seguro, por não conter peças móveis.`
   },
   {
   title: 'Para que servem as vontoinhas do computador?',
   content: [{
+    image: 'https://www.corsair.com/corsairmedia/sys_master/productcontent/CO-9050040-WW-ML_120_01.png',
     description: `Todo computador precisa de um sistema de refrigeração para dissipar o calor produzido durante as milhares trocas de dados que acontecem enquanto a máquina está ligada e desempenhando funções. Para que não aconteça um superaquecimento em seu computador, o Cooler é a peça responsável por refrigerar o processador e alguns componentes como a placa mãe para que a temperatura interna permanece em níveis seguros. Em comum entre todos os coolers está a presença dos fans, espécie de ventiladores que, com algumas diferenças a depender do tipo de cooler, servem para movimentar o calor produzido e dissipá-lo. Todos os computadores e notebooks já saem de fábrica com sistema de refrigeração, sendo a maioria composto por dois ventiladores.`
   },
   {
   title: 'Como escolher um monitor?',
   content: [{
+    image: "https://pngimg.com/uploads/monitor/laptop_PNG5892.png",
     description: `Monitor é o periférico de saída de vídeo, ou seja, o componente responsável por exibir as imagens renderizadas pela placa de vídeo. Existem inúmeros tipos de monitores, e que podem variar de tamanho, recursos (alto-falantes, saída de fone, touch screen, etc), resolução (definição da imagem) e tecnologia da qual é feita o painel. A resolução é medida pela quantidade de pontos de cor presentes no painel (pixels). O painel é formado por uma malha de pixels que pode ter diversos tamanhos, como 1240 de largura, por 720 de altura (conhecido como HD), 1920 por 1080 (Full HD) 2560 x 1440 (4k), entre outras. A resolução, muitas vezes, está relacionada ao tamanho do monitor mas há modelos que fogem à regra. Há monitores de 24 polegadas com resoluções que vão de Full HD até resolução 4K. Os painéis TN são o tipo de painel mais comum no mercado, sendo o mais utilizado nos monitores mais simples e baratos, mas também apresentam baixo tempo de resposta (atraso entre a entrada da informação e a exibição). Os painéis VA possuem capacidades para reproduzir cores vivas e os mais altos níveis de contraste. Tais detalhes resultam em excelentes imagens durante a reprodução de vídeos e imagens. Os monitores IPS tem alta fidelidade na reprodução de cores. Além dessa vantagem, essas telas possuem as melhores regulagens de contraste. Entretanto, a reprodução de níveis de preto geralmente é inferior à que vemos em painéis do tipo VA.`
   },
+]
+
+
+/* 
+  
 
 
 
