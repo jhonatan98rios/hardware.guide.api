@@ -205,40 +205,72 @@
     ],
     "nlow": [
       {
-        "name": "Motion I341TBi",
-        "image": "https://i.imgur.com/TYDBJ6t.png",
-        "moba": "Positivo",
-        "cpu": "Intel i3-8130U",
-        "storage": "HD 1TB",
-        "ram": "4GB DDR4",
+        "name": "MULTILASER - LEGACY BOOK",
+        "image": "https://i.imgur.com/dIVG2pz.png",
+        "moba": "MULTILASER",
+        "cpu": "Pentium",
+        "storage": "64 GB eMMC",
+        "ram": "4GB",
         "gpu": "Intel UHD Graphics 620",
-        "fonte": "Bateria de 38Wh",
-        "price": "2800,00",
-        "screen": "Tela 14"
+        "price": "1.600,00",
+        "screen": "Tela 14 - 1366x768 HD"
       },
       {
-        "name": "Ideapad S145",
-        "image": "https://i.imgur.com/upd5jzm.png",
-        "moba": "Lenovo",
-        "cpu": "Intel i3-8130U",
-        "storage": "HD 1TB",
+        "name": "SAMSUNG FLASH",
+        "image": "https://i.imgur.com/PuuVYuS.png",
+        "moba": "Samsung",
+        "cpu": "Celeron N4000",
+        "storage": "128GB e.MMC",
         "ram": "4GB DDR4",
-        "gpu": "Intel UHD Graphics 620",
-        "fonte": "Bateria de 30Wh",
-        "price": "3300,00",
-        "screen": "Tela 15,6"
+        "gpu": "Intel UHD Graphics 600",
+        "price": "2.600,00",
+        "screen": "Tela 13,3 LED Full HD"
       },
       {
-        "name": "Vivobook",
+        "name": "LENOVO IDEAPAD S145",
         "image": "https://i.imgur.com/E0xosMc.png",
-        "moba": "Asus",
-        "cpu": "Intel i3-8130U",
-        "storage": "HD 1TB",
-        "ram": "4GB DDR4",
-        "gpu": "Intel UHD Graphics 620",
-        "fonte": "Bateria de 2200 mAh",
-        "price": "3200,00",
-        "screen": "Tela 15,6"
+        "moba": "LENOVO",
+        "cpu": " R3-3200U",
+        "storage": "256GB SSD",
+        "ram": "8GB DDR4",
+        "gpu": "Integrada AMD Radeon™ RX Vega 3",
+        "price": "3.100,00",
+        "screen": "Tela 15,6 - 1366 x 768 - Antirreflexo"
+      }
+    ],
+    "nmedium": [
+      {
+        "name": "ACER ASPIRE 3",
+        "image": "https://i.imgur.com//pTHNzMM.png",
+        "moba": "ACER",
+        "cpu": "Ryzen R5 3500U",
+        "storage": "256GB SSD",
+        "ram": "8GB",
+        "gpu": "AMD Radeon 625 2GB GDDR5",
+        "price": "3.600,00",
+        "screen": "Tela 15,6 - 1366x768 HD"
+      },
+      {
+        "name": "ACER ASPIRE 3",
+        "image": " https://i.imgur.com/FjUKe6i.png",
+        "moba": "ACER",
+        "cpu": " Intel Core i5 10ª geração",
+        "storage": "256GB SSD",
+        "ram": "8GB DDR4",
+        "gpu": "Nvidea MX250 com 2GB GDDR5",
+        "price": "5.000,00",
+        "screen": "Tela 13,3 LED Full HD"
+      },
+      {
+        "name": "LG GRAM",
+        "image": " https://i.imgur.com/LT44NV2.png",
+        "moba": "LENOVO",
+        "cpu": "Intel Core i7-5950HQ",
+        "storage": "256GB SSD",
+        "ram": "8GB DDR4",
+        "gpu": "Intel UHD Graphics",
+        "price": "5.200,00",
+        "screen": "Tela 14 - Full HD - 1920 x 1080"
       }
     ],
     "nhigh": [

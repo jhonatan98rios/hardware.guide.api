@@ -73,6 +73,30 @@
 			"label": "nhigh"
 		},
 		{
+			"text": "procuro um Notebook para games leves",
+			"label": "nmedium"
+		},
+		{
+			"text": "Quero um Notebook para jogar e trabalhar",
+			"label": "nmedium"
+		},
+		{
+			"text": "Quer um notebook para rodar apenas jogos leves como League of Legends ou MTG Arena e principalmente para trabalhos com artes digitais em programas como Corel, Figma, ilustrator ou Photoshop",
+			"label": "nmedium"
+		},
+		{
+			"text": "Notebook para jogos leves e programação",
+			"label": "nmedium"
+		},
+		{
+			"text": "Notebook para jogar League of Legends",
+			"label": "nmedium"
+		},
+		{
+			"text": "Querp um Notebook para jogar Mobas e outros games leves",
+			"label": "nmedium"
+		},
+		{
 			"text": "Quero um Notebook para jogos pesados",
 			"label": "nhigh"
 		},
@@ -94,7 +118,7 @@
 		},
 		{
 			"text": "Preciso de um Notebook para trabalhar com Design",
-			"label": "nhigh"
+			"label": "nmedium"
 		},
 		{
 			"text": "Preciso de um Notebook para trabalhar edição",
@@ -106,14 +130,14 @@
 		},
 		{
 			"text": "Preciso de um Notebook rápido",
-			"label": "nhigh"
+			"label": "nmedium"
 		},
 		{
 			"text": "Preciso de um Notebook potente",
 			"label": "nhigh"
 		},
 		{
-			"text": "Preciso de um Notebook para plicaçõe pesadas",
+			"text": "Preciso de um Notebook para aplicações pesadas",
 			"label": "nhigh"
 		},
 		{
@@ -134,7 +158,7 @@
 		},
 		{
 			"text": "Quero um Notebook para programar",
-			"label": "nlow"
+			"label": "nmedium"
 		},
 		{
 			"text": "Maquina para jogar com raytracing",

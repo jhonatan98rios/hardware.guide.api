@@ -20,11 +20,11 @@ const getGadget = async function (request){
     classifier.train();
 
     // Write the content
-    /* var raw = JSON.stringify(classifier);
+    var raw = JSON.stringify(classifier);
     fs.writeFile('./mockdata/classifier.json', raw, function (err) {
       if (err) return console.log(err);
       console.log('WriteFile')
-    }) */
+    })
 
   } finally {
 
@@ -41,6 +41,7 @@ const getGadget = async function (request){
       'premium': hardware.premium,
       'mac': hardware.mac,
       'nlow': hardware.nlow,
+      'nmedium': hardware.nmedium,
       'nhigh': hardware.nhigh,
       'default': {"message":"Sua busca falhou, tente mais tarde"}
     };
