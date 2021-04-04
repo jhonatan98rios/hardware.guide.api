@@ -2,7 +2,7 @@ const express = require('express');
 const router = express.Router();
 
 const learn = require('../mockdata/learn')
-const learn_en = require('../mockdata/learn_en')
+const learn_en = require('../mockdata/learn-en')
 
 const getGadget = require('../controllers/getGadget')
 
