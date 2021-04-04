@@ -1,16 +1,20 @@
 const fs = require('fs');
 const natural = require('natural');
 const PhraseController = require('./PhraseController')
-const {hardware} = require('../mockdata/hardware.json')
-const db = require('../mockdata/db.json')
 
-const getGadget = async function (request){
 
+const getGadget = async function (request, lang){
+
+  /* Lang configuration */
+  const db = lang == 'pt' ? require('../mockdata/db.json') : require('../mockdata/db-en.json')
+  const {hardware} = lang == 'pt' ? require('../mockdata/hardware.json') : require('../mockdata/hardware-en.json')
+  let saveFile = lang == 'pt' ? './mockdata/classifier.json' : './mockdata/classifier-en.json'
+  
   let classifier;
 
   try {
     // Read the classifier file with model saved  
-    const raw = fs.readFileSync('./mockdata/classifier.json'); 
+    let raw = fs.readFileSync(saveFile); 
     classifier = natural.BayesClassifier.restore(JSON.parse(raw));
 
   } catch {
@@ -20,8 +24,9 @@ const getGadget = async function (request){
     classifier.train();
 
     // Write the content
-    var raw = JSON.stringify(classifier);
-    fs.writeFile('./mockdata/classifier.json', raw, function (err) {
+    let raw = JSON.stringify(classifier);
+
+    fs.writeFile(saveFile, raw, function (err) {
       if (err) return console.log(err);
       console.log('WriteFile')
     })

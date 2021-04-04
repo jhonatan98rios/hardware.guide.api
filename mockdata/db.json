@@ -1731,9 +1731,7 @@
 		{
 			"text": "procuro um computador para jogos leves como League of Legends ou MTG Arena e para trabalhos com artes digitais em programas como Corel, Figma, ilustrator ou Photoshop.",
 			"label": "low"
-		}
-	],
-	"tests": [
+		},
 		{
 			"text": "PC Gamer",
 			"label": "medium"

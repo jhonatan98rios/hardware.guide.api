@@ -1,0 +1,1416 @@
+{
+	"train": [
+		{
+			"text": "looking for notebook for everyday use",
+			"label": "nlow"
+		},
+		{
+			"text": "searching for notebook for everyday use",
+			"label": "nlow"
+		},
+		{
+			"text": "looking for notebook for college",
+			"label": "nlow"
+		},
+		{
+			"text": "searching for notebook for college",
+			"label": "nlow"
+		},
+		{
+			"text": "looking for a cheap notebook",
+			"label": "nlow"
+		},
+		{
+			"text": "searching for a cheap notebook",
+			"label": "nlow"
+		},
+		{
+			"text": "I want cheap low cost notebook",
+			"label": "nlow"
+		},
+		{
+			"text": "look for cheap",
+			"label": "nlow"
+		},
+		{
+			"text": "looking for cost-effective notebook",
+			"label": "nlow"
+		},
+		{
+			"text": "I want a cheap notebook",
+			"label": "nlow"
+		},
+		{
+			"text": "I want a cheap laptop",
+			"label": "nlow"
+		},
+		{
+			"text": "I want a laptop to work",
+			"label": "nlow"
+		},
+		{
+			"text": "I want a laptop for college",
+			"label": "nlow"
+		},
+		{
+			"text": "Looking for a notebook for college",
+			"label": "nlow"
+		},
+		{
+			"text": "I want a laptop to study",
+			"label": "nlow"
+		},
+		{
+			"text": "I need a notebook to work",
+			"label": "nlow"
+		},
+		{
+			"text": "I look for notebook to run light programs",
+			"label": "nlow"
+		},
+		{
+			"text": "looking for notebook for college",
+			"label": "nlow"
+		},
+		{
+			"text": "I look for notebook to work",
+			"label": "nlow"
+		},
+		{
+			"text": "looking for notebook for excel",
+			"label": "nlow"
+		},
+		{
+			"text": "I am looking for a Notebook for games",
+			"label": "nhigh"
+		},
+		{
+			"text": "I am looking for a Notebook for light games",
+			"label": "nmedium"
+		},
+		{
+			"text": "I want a Notebook to play and work",
+			"label": "nmedium"
+		},
+		{
+			"text": "i want a notebook to run only light games like League of Legends or MTG Arena and mainly for works with digital arts in programs like Corel, Figma, ilustrator or Photoshop",
+			"label": "nmedium"
+		},
+		{
+			"text": "Notebook for lightweight games and programming",
+			"label": "nmedium"
+		},
+		{
+			"text": "Notebook to play League of Legends",
+			"label": "nmedium"
+		},
+		{
+			"text": "I want a Notebook to play Mobas and other light games",
+			"label": "nmedium"
+		},
+		{
+			"text": "I want a notebook for heavy games",
+			"label": "nhigh"
+		},
+		{
+			"text": "I am looking for a Notebook for video editing",
+			"label": "nhigh"
+		},
+		{
+			"text": "I want a Notebook to work with computer graphics",
+			"label": "nhigh"
+		},
+		{
+			"text": "I want a Notebook to play in 4K",
+			"label": "nhigh"
+		},
+		{
+			"text": "I want a Notebook for 3D modeling",
+			"label": "nhigh"
+		},
+		{
+			"text": "I need a Notebook to work with Design",
+			"label": "nmedium"
+		},
+		{
+			"text": "I need a Notebook to work editing",
+			"label": "nhigh"
+		},
+		{
+			"text": "I need a Notebook to program applications",
+			"label": "nhigh"
+		},
+		{
+			"text": "I need a quick Notebook",
+			"label": "nmedium"
+		},
+		{
+			"text": "I need a powerful Notebook",
+			"label": "nhigh"
+		},
+		{
+			"text": "I need a notebook for heavy applications",
+			"label": "nhigh"
+		},
+		{
+			"text": "I need a Notebook to work with CAD",
+			"label": "nhigh"
+		},
+		{
+			"text": "I need a notebook with performance",
+			"label": "nhigh"
+		},
+		{
+			"text": "I need a Notebook to run aaa games",
+			"label": "nhigh"
+		},
+		{
+			"text": "I want a Notebook to run emulators",
+			"label": "nlow"
+		},
+		{
+			"text": "I want a Notebook to program",
+			"label": "nmedium"
+		},
+		{
+			"text": "Machine to play with raytracing",
+			"label": "xhigh"
+		},
+		{
+			"text": "Computer to play",
+			"label": "medium"
+		},
+		{
+			"text": "Machine to run heavy games",
+			"label": "xhigh"
+		},
+		{
+			"text": "PC to run heavy games",
+			"label": "xhigh"
+		},
+		{
+			"text": "Quero um pc para rodar jogos pesados",
+			"label": "xhigh"
+		},
+		{
+			"text": "Computer to run heavy games",
+			"label": "xhigh"
+		},
+		{
+			"text": "I want a machine to run heavy games",
+			"label": "xhigh"
+		},
+		{
+			"text": "Computer for games",
+			"label": "medium"
+		},
+		{
+			"text": "Computer Gamer",
+			"label": "medium"
+		},
+		{
+			"text": "Machine to run games",
+			"label": "medium"
+		},
+		{
+			"text": "Machine for games",
+			"label": "medium"
+		},
+		{
+			"text": "Game Machine",
+			"label": "medium"
+		},
+		{
+			"text": "Machine for lives",
+			"label": "xhigh"
+		},
+		{
+			"text": "machine for streaming",
+			"label": "xhigh"
+		},
+		{
+			"text": "PC for video streaming",
+			"label": "xhigh"
+		},
+		{
+			"text": "Computer for gameplay live",
+			"label": "xhigh"
+		},
+		{
+			"text": "PC for gameplay",
+			"label": "xhigh"
+		},
+		{
+			"text": "PC to make lives",
+			"label": "xhigh"
+		},
+		{
+			"text": "Computer for streaming games",
+			"label": "xhigh"
+		},
+		{
+			"text": "Computer for streaming competitive games",
+			"label": "xhigh"
+		},
+		{
+			"text": "PC for competitive gaming lives",
+			"label": "xhigh"
+		},
+		{
+			"text": "Computer to play and record gameplay",
+			"label": "high"
+		},
+		{
+			"text": "Computer for games and streaming",
+			"label": "xhigh"
+		},
+		{
+			"text": "Computer for games and lives",
+			"label": "xhigh"
+		},
+		{
+			"text": "PC for games and lives",
+			"label": "xhigh"
+		},
+		{
+			"text": "Games and lives",
+			"label": "xhigh"
+		},
+		{
+			"text": "machine for games and lives",
+			"label": "xhigh"
+		},
+		{
+			"text": "PC for games",
+			"label": "medium"
+		},
+		{
+			"text": "PC to play",
+			"label": "medium"
+		},
+		{
+			"text": "PC for heavy games",
+			"label": "xhigh"
+		},
+		{
+			"text": "Computer for heavy games",
+			"label": "xhigh"
+		},
+		{
+			"text": "PC to run games",
+			"label": "medium"
+		},
+		{
+			"text": "Computer to run play",
+			"label": "medium"
+		},
+		{
+			"text": "PC to work and play",
+			"label": "medium"
+		},
+		{
+			"text": "Machine to play and work",
+			"label": "medium"
+		},
+		{
+			"text": "Machine to work and play",
+			"label": "medium"
+		},
+		{
+			"text": "PC for light gaming and work",
+			"label": "low"
+		},
+		{
+			"text": "Computer for work and play games",
+			"label": "medium"
+		},
+		{
+			"text": "PC to work and play games",
+			"label": "medium"
+		},
+		{
+			"text": "PC for work and games",
+			"label": "medium"
+		},
+		{
+			"text": "I want a machine for work and games",
+			"label": "high"
+		},
+		{
+			"text": "I need a machine for work and games",
+			"label": "high"
+		},
+		{
+			"text": "I want a computer for work and games",
+			"label": "high"
+		},
+		{
+			"text": "I want a computer for work and games",
+			"label": "high"
+		},
+		{
+			"text": "Machine for professional use and games",
+			"label": "xhigh"
+		},
+		{
+			"text": "PC for professional use and games",
+			"label": "xhigh"
+		},
+		{
+			"text": "Computer for Ray Tracing",
+			"label": "xhigh"
+		},
+		{
+			"text": "Computer for Ray Tracing",
+			"label": "xhigh"
+		},
+		{
+			"text": "PC to play GTA V",
+			"label": "medium"
+		},
+		{
+			"text": "PC to play GTA V",
+			"label": "high"
+		},
+		{
+			"text": "PC to play PUBG",
+			"label": "high"
+		},
+		{
+			"text": "PC to play PUBG Lite",
+			"label": "low"
+		},
+		{
+			"text": "PC to play Fortnite",
+			"label": "medium"
+		},
+		{
+			"text": "PC to play Apex",
+			"label": "medium"
+		},
+		{
+			"text": "PC to play League of Legends",
+			"label": "low"
+		},
+		{
+			"text": "PC to play CS GO",
+			"label": "low"
+		},
+		{
+			"text": "PC to play Minecraft",
+			"label": "low"
+		},
+		{
+			"text": "PC to play Emulators",
+			"label": "medium"
+		},
+		{
+			"text": "PC to play Battlefield",
+			"label": "medium"
+		},
+		{
+			"text": "PC to play Call of Duty",
+			"label": "medium"
+		},
+		{
+			"text": "PC to play releases",
+			"label": "medium"
+		},
+		{
+			"text": "PC to play in 4k",
+			"label": "xhigh"
+		},
+		{
+			"text": "Play mario bross and invest",
+			"label": "low"
+		},
+		{
+			"text": "Play lol and work",
+			"label": "low"
+		},
+		{
+			"text": "Play dota and study",
+			"label": "low"
+		},
+		{
+			"text": "Play CS and LOL",
+			"label": "low"
+		},
+		{
+			"text": "Play CS at 144fps",
+			"label": "high"
+		},
+		{
+			"text": "Play CS in 4K at 144fps",
+			"label": "xhigh"
+		},
+		{
+			"text": "I want a computer for video editing",
+			"label": "high"
+		},
+		{
+			"text": "I want a pc for video and image editing",
+			"label": "high"
+		},
+		{
+			"text": "I need a pc for video editing",
+			"label": "high"
+		},
+		{
+			"text": "Pc for video editors",
+			"label": "high"
+		},
+		{
+			"text": "Pc to edit video",
+			"label": "high"
+		},
+		{
+			"text": "I want a pc for video and image editing",
+			"label": "high"
+		},
+		{
+			"text": "I need a computer to render",
+			"label": "high"
+		},
+		{
+			"text": "Computer to edit video",
+			"label": "high"
+		},
+		{
+			"text": "PC to do video editing",
+			"label": "high"
+		},
+		{
+			"text": "PC to edit video",
+			"label": "high"
+		},
+		{
+			"text": "Computer for image editing",
+			"label": "low"
+		},
+		{
+			"text": "PC to edit image",
+			"label": "low"
+		},
+		{
+			"text": "PC to work with Design",
+			"label": "low"
+		},
+		{
+			"text": "PC for editing graphics",
+			"label": "low"
+		},
+		{
+			"text": "Computer to edit vectors",
+			"label": "low"
+		},
+		{
+			"text": "Computer for photoshop",
+			"label": "low"
+		},
+		{
+			"text": "Computer for figma",
+			"label": "low"
+		},
+		{
+			"text": "Computer for illustrator",
+			"label": "low"
+		},
+		{
+			"text": "Computer for corel draw",
+			"label": "low"
+		},
+		{
+			"text": "Adobe computer",
+			"label": "high"
+		},
+		{
+			"text": "Adobe suite pc",
+			"label": "high"
+		},
+		{
+			"text": "Premiere computer",
+			"label": "high"
+		},
+		{
+			"text": "Computer for after effects",
+			"label": "high"
+		},
+		{
+			"text": "Computer for audio design",
+			"label": "low"
+		},
+		{
+			"text": "PC for audio engineer",
+			"label": "low"
+		},
+		{
+			"text": "PC for audio processing",
+			"label": "low"
+		},
+		{
+			"text": "PC for programming",
+			"label": "low"
+		},
+		{
+			"text": "PC to work with CAD",
+			"label": "high"
+		},
+		{
+			"text": "PC to mix music",
+			"label": "low"
+		},
+		{
+			"text": "PC to work with audiovisual",
+			"label": "low"
+		},
+		{
+			"text": "PC to work with cinema",
+			"label": "high"
+		},
+		{
+			"text": "PC for audio engineering",
+			"label": "low"
+		},
+		{
+			"text": "Machine for working with audio",
+			"label": "low"
+		},
+		{
+			"text": "Machine for working with audio engineering",
+			"label": "low"
+		},
+		{
+			"text": "Machine for working with audio editing",
+			"label": "low"
+		},
+		{
+			"text": "Heavy-duty computer",
+			"label": "xhigh"
+		},
+		{
+			"text": "Computer for heavy processing",
+			"label": "xhigh"
+		},
+		{
+			"text": "Computer for image processing",
+			"label": "medium"
+		},
+		{
+			"text": "Computer for video processing",
+			"label": "high"
+		},
+		{
+			"text": "PC to work with audiovisual",
+			"label": "low"
+		},
+		{
+			"text": "PC for audio designer",
+			"label": "low"
+		},
+		{
+			"text": "PC to work with audio design",
+			"label": "low"
+		},
+		{
+			"text": "PC for audio editing",
+			"label": "low"
+		},
+		{
+			"text": "computer for 3D rendering",
+			"label": "high"
+		},
+		{
+			"text": "PC for 3D modeling",
+			"label": "high"
+		},
+		{
+			"text": "PC for video editing, other than Mac",
+			"label": "high"
+		},
+		{
+			"text": "PC for full HD video editing",
+			"label": "medium"
+		},
+		{
+			"text": "PC for video editing with Windows",
+			"label": "high"
+		},
+		{
+			"text": "PC to play and make lives",
+			"label": "xhigh"
+		},
+		{
+			"text": "I need a PC to play and make lives",
+			"label": "xhigh"
+		},
+		{
+			"text": "I want a PC to play and make lives",
+			"label": "xhigh"
+		},
+		{
+			"text": "I want computer to play and make lives",
+			"label": "xhigh"
+		},
+		{
+			"text": "Computer for Office",
+			"label": "xlow"
+		},
+		{
+			"text": "Computer to Excel",
+			"label": "xlow"
+		},
+		{
+			"text": "Computer to Word",
+			"label": "xlow"
+		},
+		{
+			"text": "Computer for Power Point",
+			"label": "xlow"
+		},
+		{
+			"text": "PC for professional use",
+			"label": "high"
+		},
+		{
+			"text": "PC for professional applications",
+			"label": "high"
+		},
+		{
+			"text": "Work and play sometimes",
+			"label": "medium"
+		},
+		{
+			"text": "Machine to run some games",
+			"label": "low"
+		},
+		{
+			"text": "Machine to work and play from time to time",
+			"label": "medium"
+		},
+		{
+			"text": "Computer to work and play",
+			"label": "medium"
+		},
+		{
+			"text": "Computer for play and work",
+			"label": "medium"
+		},
+		{
+			"text": "Machine to play light games",
+			"label": "low"
+		},
+		{
+			"text": "Machine for light games",
+			"label": "low"
+		},
+		{
+			"text": "Machine for light games",
+			"label": "low"
+		},
+		{
+			"text": "Cheap Computer Gamer",
+			"label": "medium"
+		},
+		{
+			"text": "Cheap PC Gamer",
+			"label": "medium"
+		},
+		{
+			"text": "Cheap Gamer Machine",
+			"label": "medium"
+		},
+		{
+			"text": "Cheap playing machine",
+			"label": "low"
+		},
+		{
+			"text": "PC to play cheap",
+			"label": "low"
+		},
+		{
+			"text": "PC to run cheap games",
+			"label": "low"
+		},
+		{
+			"text": "PC for light games",
+			"label": "low"
+		},
+		{
+			"text": "Cheap computer to play",
+			"label": "low"
+		},
+		{
+			"text": "Cheap computer to run games",
+			"label": "low"
+		},
+		{
+			"text": "Computer for playing light games",
+			"label": "low"
+		},
+		{
+			"text": "Light gaming computer",
+			"label": "low"
+		},
+		{
+			"text": "Cheap computer for games",
+			"label": "low"
+		},
+		{
+			"text": "cheap computer",
+			"label": "xlow"
+		},
+		{
+			"text": "Cheap pc",
+			"label": "xlow"
+		},
+		{
+			"text": "Cheap pc to study",
+			"label": "xlow"
+		},
+		{
+			"text": "Cheap PC for studies and games",
+			"label": "low"
+		},
+		{
+			"text": "Cheap gaming pc",
+			"label": "low"
+		},
+		{
+			"text": "Cheap PC to play",
+			"label": "low"
+		},
+		{
+			"text": "Cheap PC for editing",
+			"label": "low"
+		},
+		{
+			"text": "PC to play light games",
+			"label": "low"
+		},
+		{
+			"text": "PC Gamer",
+			"label": "medium"
+		},
+		{
+			"text": "Machine to play sometimes",
+			"label": "low"
+		},
+		{
+			"text": "PC to play from time to time",
+			"label": "low"
+		},
+		{
+			"text": "Machine for simple games",
+			"label": "low"
+		},
+		{
+			"text": "Machine for light games",
+			"label": "low"
+		},
+		{
+			"text": "PC for light games",
+			"label": "low"
+		},
+		{
+			"text": "PC for heavy games",
+			"label": "xhigh"
+		},
+		{
+			"text": "Fast PC",
+			"label": "medium"
+		},
+		{
+			"text": "Computer for heavy programs",
+			"label": "xhigh"
+		},
+		{
+			"text": "PC for everyday use",
+			"label": "xlow"
+		},
+		{
+			"text": "Computer for simple use",
+			"label": "low"
+		},
+		{
+			"text": "PC for navigation",
+			"label": "xlow"
+		},
+		{
+			"text": "PC to watch videos",
+			"label": "xlow"
+		},
+		{
+			"text": "PC to study",
+			"label": "xlow"
+		},
+		{
+			"text": "Computer for office",
+			"label": "xlow"
+		},
+		{
+			"text": "Computer to use in the office",
+			"label": "xlow"
+		},
+		{
+			"text": "Computer for college",
+			"label": "xlow"
+		},
+		{
+			"text": "Computer for work",
+			"label": "low"
+		},
+		{
+			"text": "Machine for work",
+			"label": "low"
+		},
+		{
+			"text": "Computer for administrative use",
+			"label": "xlow"
+		},
+		{
+			"text": "Computer for administrative use",
+			"label": "xlow"
+		},
+		{
+			"text": "PC for business administration",
+			"label": "xlow"
+		},
+		{
+			"text": "Laptop for administrative use",
+			"label": "xlow"
+		},
+		{
+			"text": "Laptop for administration use",
+			"label": "xlow"
+		},
+		{
+			"text": "Laptop for administration use",
+			"label": "xlow"
+		},
+		{
+			"text": "PC to play in Full HD",
+			"label": "high"
+		},
+		{
+			"text": "PC to play in 1080p",
+			"label": "high"
+		},
+		{
+			"text": "Computer to work and play in 1080p",
+			"label": "high"
+		},
+		{
+			"text": "Computer to work and play in 4K",
+			"label": "xhigh"
+		},
+		{
+			"text": "Laptop to play and work",
+			"label": "medium"
+		},
+		{
+			"text": "Computer to run Linux",
+			"label": "low"
+		},
+		{
+			"text": "Computer to run Ubuntu",
+			"label": "low"
+		},
+		{
+			"text": "Computer to run Lubuntu",
+			"label": "xlow"
+		},
+		{
+			"text": "Computer to run Linux Mint",
+			"label": "low"
+		},
+		{
+			"text": "Computer to run Deepin",
+			"label": "medium"
+		},
+		{
+			"text": "Computer to run Hackintosh",
+			"label": "medium"
+		},
+		{
+			"text": "Computer up to 2000",
+			"label": "xlow"
+		},
+		{
+			"text": "Computer up to 3000",
+			"label": "low"
+		},
+		{
+			"text": "Computer up to 4000",
+			"label": "medium"
+		},
+		{
+			"text": "Computer up to 6000",
+			"label": "high"
+		},
+		{
+			"text": "Computer up to 9000",
+			"label": "xhigh"
+		},
+		{
+			"text": "Computer up to 9000",
+			"label": "xhigh"
+		},
+		{
+			"text": "I intend to set up a computer for the following functions and programs. Budget R $ 4,000 (if you can pay in installments, you can go up to 4,500 and 5,000), 4k video editing (Adobe Premiere Pro), Render animations (After Effects), Color Grading (DaVinci Resolve), Photo treatment (Lightroom)",
+			"label": "medium"
+		},
+		{
+			"text": "PC for editing",
+			"label": "high"
+		},
+		{
+			"text": "Computer to program",
+			"label": "low"
+		},
+		{
+			"text": "PC to run docker",
+			"label": "medium"
+		},
+		{
+			"text": "I want a computer to program",
+			"label": "low"
+		},
+		{
+			"text": "Pc to play Red Dead Redemption",
+			"label": "high"
+		},
+		{
+			"text": "Computer to play",
+			"label": "medium"
+		},
+		{
+			"text": "PC to study",
+			"label": "xlow"
+		},
+		{
+			"text": "Computer to render 3D",
+			"label": "high"
+		},
+		{
+			"text": "PC for 3D modeling and rendering",
+			"label": "high"
+		},
+		{
+			"text": "Pc for programming",
+			"label": "low"
+		},
+		{
+			"text": "PC to play in 4K",
+			"label": "xhigh"
+		},
+		{
+			"text": "Pc for light games",
+			"label": "low"
+		},
+		{
+			"text": "Pc for image editing",
+			"label": "low"
+		},
+		{
+			"text": "PC to run Android Studio",
+			"label": "medium"
+		},
+		{
+			"text": "Pc to run GTA V",
+			"label": "medium"
+		},
+		{
+			"text": "PC to edit videos and images",
+			"label": "high"
+		},
+		{
+			"text": "PC for modeling",
+			"label": "high"
+		},
+		{
+			"text": "PC for video editing",
+			"label": "high"
+		},
+		{
+			"text": "Computer for video editing",
+			"label": "high"
+		},
+		{
+			"text": "Computer to render",
+			"label": "high"
+		},
+		{
+			"text": "looking for pc to cad",
+			"label": "medium"
+		},
+		{
+			"text": "Computer to run 3DSMAX",
+			"label": "medium"
+		},
+		{
+			"text": "PC to run Resident Evil 3",
+			"label": "high"
+		},
+		{
+			"text": "PC para rodar Red Dead Redemption",
+			"label": "high"
+		},
+		{
+			"text": "Pc for data analysis",
+			"label": "low"
+		},
+		{
+			"text": "PC for 3D modeling",
+			"label": "high"
+		},
+		{
+			"text": "Looking for a pc to run emulators",
+			"label": "medium"
+		},
+		{
+			"text": "Computer for 3D modeling with 4D cinema",
+			"label": "high"
+		},
+		{
+			"text": "Pc to edit video",
+			"label": "high"
+		},
+		{
+			"text": "Pc to machine learning",
+			"label": "medium"
+		},
+		{
+			"text": "Pc for computer graphics",
+			"label": "high"
+		},
+		{
+			"text": "Engineering Pc",
+			"label": "low"
+		},
+		{
+			"text": "Pc to run ps2 emulator",
+			"label": "medium"
+		},
+		{
+			"text": "I need a cheap computer to work",
+			"label": "xlow"
+		},
+		{
+			"text": "Cheap computer for games",
+			"label": "low"
+		},
+		{
+			"text": "Cheap pc to work",
+			"label": "xlow"
+		},
+		{
+			"text": "Play fps at high frame rates",
+			"label": "high"
+		},
+		{
+			"text": "Play competitive games",
+			"label": "medium"
+		},
+		{
+			"text": "PC to run light games and to work with digital arts in programs such as Photoshop, Corel, Figma and ilustrator",
+			"label": "low"
+		},
+		{
+			"text": "Digital arts in programs like Photoshop and illustrator",
+			"label": "low"
+		},
+		{
+			"text": "PC for productivity",
+			"label": "low"
+		},
+		{
+			"text": "Computer for productivity",
+			"label": "low"
+		},
+		{
+			"text": "Productivity machine",
+			"label": "low"
+		},
+		{
+			"text": "I am looking for a PC to run only light games like League of Legends or MTG Arena and mainly for works with digital arts in programs like Corel, Figma, ilustrator or Photoshop.",
+			"label": "low"
+		},
+		{
+			"text": "I'm looking for a PC to run only light games like League of Legends",
+			"label": "low"
+		},
+		{
+			"text": "Looking for a PC to run League of Legends",
+			"label": "low"
+		},
+		{
+			"text": "League of Legends",
+			"label": "low"
+		},
+		{
+			"text": "League or MTG Arena",
+			"label": "low"
+		},
+		{
+			"text": "League or MTG Arena",
+			"label": "low"
+		},
+		{
+			"text": "I am looking for a pc to work with digital arts in programs like Corel, Figma, ilustrator or Photoshop.",
+			"label": "low"
+		},
+		{
+			"text": "I am looking for a PC to run Figma, Illustrator or Photoshop.",
+			"label": "low"
+		},
+		{
+			"text": "PC for video editing",
+			"label": "xhigh"
+		},
+		{
+			"text": "PC for editing",
+			"label": "high"
+		},
+		{
+			"text": "Computer to program",
+			"label": "low"
+		},
+		{
+			"text": "PC to run docker",
+			"label": "medium"
+		},
+		{
+			"text": "I want a computer to program",
+			"label": "low"
+		},
+		{
+			"text": "PC to play Red Dead Redemption",
+			"label": "high"
+		},
+		{
+			"text": "Computer to play",
+			"label": "medium"
+		},
+		{
+			"text": "PC to study",
+			"label": "xlow"
+		},
+		{
+			"text": "Computer to render 3D",
+			"label": "xhigh"
+		},
+		{
+			"text": "Pc for programming",
+			"label": "low"
+		},
+		{
+			"text": "PC to play in 4K",
+			"label": "high"
+		},
+		{
+			"text": "Pc for light games",
+			"label": "low"
+		},
+		{
+			"text": "Computer to run 3DSMAX",
+			"label": "high"
+		},
+		{
+			"text": "PC to run Resident Evil 3",
+			"label": "medium"
+		},
+		{
+			"text": "PC to run Red Dead Redemption",
+			"label": "high"
+		},
+		{
+			"text": "Pc for data analysis",
+			"label": "medium"
+		},
+		{
+			"text": "PC for 3D modeling",
+			"label": "high"
+		},
+		{
+			"text": "Looking for a pc to run emulators",
+			"label": "low"
+		},
+		{
+			"text": "Computer for 3D modeling with 4D cinema",
+			"label": "high"
+		},
+		{
+			"text": "Pc to edit video",
+			"label": "high"
+		},
+		{
+			"text": "Pc for machine learning",
+			"label": "low"
+		},
+		{
+			"text": "Pc for computer graphics",
+			"label": "high"
+		},
+		{
+			"text": "Pc for computer graphics",
+			"label": "medium"
+		},
+		{
+			"text": "Pc to run ps2 emulator",
+			"label": "medium"
+		},
+		{
+			"text": "I need a cheap computer to work",
+			"label": "low"
+		},
+		{
+			"text": "Cheap computer for games",
+			"label": "low"
+		},
+		{
+			"text": "Cheap pc to work",
+			"label": "low"
+		},
+		{
+			"text": "Play mario bross and invest",
+			"label": "low"
+		},
+		{
+			"text": "Pc for everyday use",
+			"label": "xlow"
+		},
+		{
+			"text": "computer for programming",
+			"label": "low"
+		},
+		{
+			"text": "play, program and study",
+			"label": "low"
+		},
+		{
+			"text": "I need a pc for 3D modeling and game design",
+			"label": "high"
+		},
+		{
+			"text": "Computer for games",
+			"label": "medium"
+		},
+		{
+			"text": "PC for games",
+			"label": "medium"
+		},
+		{
+			"text": "Computer for modeling",
+			"label": "high"
+		},
+		{
+			"text": "I need a pc to run virtual machines",
+			"label": "high"
+		},
+		{
+			"text": "Design",
+			"label": "low"
+		},
+		{
+			"text": "PC to GTA V",
+			"label": "medium"
+		},
+		{
+			"text": "I need a pc for games",
+			"label": "medium"
+		},
+		{
+			"text": "PC for editing",
+			"label": "high"
+		},
+		{
+			"text": "CSGO, F1 2020, Developer, ",
+			"label": "low"
+		},
+		{
+			"text": "Software development",
+			"label": "low"
+		},
+		{
+			"text": "Pc Gamer",
+			"label": "medium"
+		},
+		{
+			"text": "PC to Job",
+			"label": "low"
+		},
+		{
+			"text": "For studies, watching content and Photoshop",
+			"label": "low"
+		},
+		{
+			"text": "programming",
+			"label": "low"
+		},
+		{
+			"text": "text",
+			"label": "xlow"
+		},
+		{
+			"text": "I am looking for a I am looking for a notebook to play in medium or low quality. Enough RAM",
+			"label": "medium"
+		},
+		{
+			"text": "Game",
+			"label": "high"
+		},
+		{
+			"text": "DESIGN",
+			"label": "low"
+		},
+		{
+			"text": "Games and design work.",
+			"label": "low"
+		},
+		{
+			"text": "to Play",
+			"label": "medium"
+		},
+		{
+			"text": "Program",
+			"label": "low"
+		},
+		{
+			"text": "To program in Android Studio",
+			"label": "low"
+		},
+		{
+			"text": "I want a pc for editing",
+			"label": "high"
+		},
+		{
+			"text": "I want a pc for light games like League of Legends and for works with digital arts",
+			"label": "low"
+		},
+		{
+			"text": "I am looking for a PC for light games and mainly for work in programs like Corel, Figma, ilustrator or Photoshop.",
+			"label": "low"
+		},
+		{
+			"text": "I am looking for a notebook for light games and mainly for work in programs like Corel, Figma, ilustrator or Photoshop.",
+			"label": "nmedium"
+		},
+		{
+			"text": "I am looking for a notebook for light games and mainly for work in programs like Corel, Figma, ilustrator or Photoshop.",
+			"label": "nmedium"
+		},
+		{
+			"text": "I am looking for for works with digital arts",
+			"label": "nmedium"
+		},
+		{
+			"text": "PC Gamer",
+			"label": "medium"
+		},
+		{
+			"text": "Simple PC",
+			"label": "low"
+		}
+	]
+}
