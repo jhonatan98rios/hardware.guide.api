@@ -17,7 +17,7 @@ module.exports = [
     title: 'O que é a memória RAM?',
     content: [{
       image: 'https://freepikpsd.com/wp-content/uploads/2019/10/memoria-ram-png-4.png',
-      description: `A memória RAM é responsável por dar velocidade ao sistema. Basicamente, a RAM guarda temporariamente toda a informação que o computador esta utilizando, sejam os softwares e arquivos abertos, músicas e vídeos sendo reproduzidos e jogos rodando. Isso é um fator que a diferencia de um HD, por exemplo, que é mais lento e faz um armazenamento para longo prazo. A memória é volátil, ou seja, só armazena informação enquanto energizada (ligada). Toda vez que o PC é desligado essa memória é apagada.`
+      description: `A memória RAM é responsável por dar velocidade ao sistema. Basicamente, a RAM guarda temporariamente toda a informação que o computador esta utilizando, sejam os softwares e arquivos abertos, músicas e vídeos sendo reproduzidos e jogos rodando. A diferencia entre ela e um HD, é que ele é mais lento e faz um armazenamento para longo prazo. A memória RAM é volátil, ou seja, só armazena informação enquanto ligada (energizada). Toda vez que o PC é desligado essa memória é apagada. Atualmente, o padrão utilizado pelas memórias é o DDR4 que alcança até 4.266 MHz (50% mais rápido que a DDR3). O padrão anterior (DDR3) ainda está disponível no mercado, principalmente em notebooks mas não é mais utilizado em computadores de alto desempenho por não apresentar aumento considerável nos preços.`
     }]
   },
   {
@@ -31,7 +31,7 @@ module.exports = [
     title: 'O que é uma Placa de Vídeo (GPU)?',
     content: [{
       image: 'https://img.terabyteshop.com.br/produto/g/placa-de-video-asus-geforce-rtx-3060-12gb-gddr6-192bit-90yv0gb2-m0na00_117862.png',
-      description: `A placa de vídeo é o componente do seu computador responsável por gerar as imagens que você vê na tela, seja essa página da web, um filme ou um game. Essa peça também é conhecida como unidade de processamento gráfico (ou GPU) e podem ser integrados, que fazem parte do processador, ou placas dedicadas, maiores e mais poderosas. As GPUs também são muito utilizadas em aplicações que exigem processamento paralelo, como mineração de criptomoeadas, machine learning, e super computação.`
+      description: `A placa de vídeo é o componente do seu computador responsável por gerar as imagens que você vê na tela, seja essa página da web, um filme ou um game. Essa peça também é conhecida como unidade de processamento gráfico (ou GPU) e podem ser integrados, que fazem parte do processador, ou placas dedicadas, maiores e mais poderosas. As GPUs também são muito utilizadas em aplicações que exigem processamento paralelo, como mineração de criptomoeadas, machine learning, e super computação. As GPU's, quando integradas, utilizam a memória RAM para armazenar as texturas e shaders (softwares de processamento gráfico em tempo real), já quando dedicadas, apresentam uma memória própria que pode ir de 512MB até 48GB, mas para rodar games ou aplicações comuns, não será necessário mais do que 8GB.`
     }]
   },
   {
