@@ -67,5 +67,18 @@ module.exports = [
       image: "https://pngimg.com/uploads/monitor/laptop_PNG5892.png",
       description: `Monitor é o periférico de saída de vídeo, ou seja, o componente responsável por exibir as imagens renderizadas pela placa de vídeo. Existem inúmeros tipos de monitores, e que podem variar de tamanho, recursos (alto-falantes, saída de fone, touch screen, etc), resolução (definição da imagem) e tecnologia da qual é feita o painel. A resolução é medida pela quantidade de pontos de cor presentes no painel (pixels). O painel é formado por uma malha de pixels que pode ter diversos tamanhos, como 1240 de largura, por 720 de altura (conhecido como HD), 1920 por 1080 (Full HD) 2560 x 1440 (4k), entre outras. A resolução, muitas vezes, está relacionada ao tamanho do monitor mas há modelos que fogem à regra. Há monitores de 24 polegadas com resoluções que vão de Full HD até resolução 4K. Os painéis TN são o tipo de painel mais comum no mercado, sendo o mais utilizado nos monitores mais simples e baratos, mas também apresentam baixo tempo de resposta (atraso entre a entrada da informação e a exibição). Os painéis VA possuem capacidades para reproduzir cores vivas e os mais altos níveis de contraste. Tais detalhes resultam em excelentes imagens durante a reprodução de vídeos e imagens. Os monitores IPS tem alta fidelidade na reprodução de cores. Além dessa vantagem, essas telas possuem as melhores regulagens de contraste. Entretanto, a reprodução de níveis de preto geralmente é inferior à que vemos em painéis do tipo VA.`
     }]
-  }
+  },
+  {
+    title: 'Aonde investir se o objetivo são os games?',
+    content: [{
+      description: `Quando se trata de rodar games pesados e lençamentos, o custo do computador pode crescer bastante. Alguns componentes são diretamente ligados à performance, já outros podem impactar os games de formas menos direta, mas também tem grande importância no funcionamento do conjunto. No contexto geral, games com gráficos bonitos e altas resoluções exigem placas de vídeo mais potentes e com mais memória dedicada. As placas são responsáveis pelo desenho dos poligonos dos elementos tridimensionais e também pelo processamento dos shaders. Além da placa de vídeo, games online e com mapas grandes, exigem bons processadores para manter tudo funcionando. Em ambos os casos, memória ram é essencial, uma vez que todos os arquivos do jogo serão alocados para acesso mais rápido. Normalmente, 8gb são o suficiente, mas jogos mais pesados, ou em resoluções mais altas podem exigir 16gb.`
+    }]
+  },
+  {
+    title: 'O que é mais importante para edição de vídeo e modelagem  3D?',
+    content: [{
+      description: `Trabalhos pesados como computação gráfica, exigem muito do processador. Edição audiovisual e modelagem 3D exigem muitos calculos complexos e execução de diversos algoritmos de processamento de imagem complexos. Assim como em games, as placas de vídeo tem importante papel, entretanto, alguns softwares não são otimizados para fazer bom uso da aceleração gráfica. No geral, ter bastante memória RAM, com altos clocks, pode ter um impacto bem positivo principalmente na hora de renderizar os arquivos. Além disso, SSD's podem ajudar a ganhar performance na hora de abrir os arquivos pesados e facilitar a escrita do arquivo final na hora do render.`
+    }]
+  },
+
 ]
