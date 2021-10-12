@@ -11,6 +11,6 @@ app.use(cors())
 app.use(routes)
 
 // Create the server
-app.listen(process.env.PORT || 3000, () => {
+app.listen(process.env.PORT || 5000, () => {
   console.log('Running')
 })
