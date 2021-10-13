@@ -1,0 +1,40 @@
+{
+    "train": [
+        {
+			"text": "procuro um Notebook para games leves",
+			"label": "nmedium"
+        },
+        {
+			"text": "Quero um Notebook para jogar e trabalhar",
+			"label": "nmedium"
+        },
+        {
+			"text": "Quer um notebook para rodar apenas jogos leves como League of Legends ou MTG Arena e principalmente para trabalhos com artes digitais em programas como Corel, Figma, ilustrator ou Photoshop",
+			"label": "nmedium"
+        },
+        {
+			"text": "Notebook para jogos leves e programação",
+			"label": "nmedium"
+        },
+        {
+			"text": "Notebook para jogar League of Legends",
+			"label": "nmedium"
+        },
+        {
+			"text": "Querp um Notebook para jogar Mobas e outros games leves",
+			"label": "nmedium"
+        },
+        {
+			"text": "Preciso de um Notebook para trabalhar com Design",
+			"label": "nmedium"
+        },
+        {
+			"text": "Preciso de um Notebook rápido",
+			"label": "nmedium"
+        },
+        {
+			"text": "Quero um Notebook para programar",
+			"label": "nmedium"
+        }
+    ]
+}

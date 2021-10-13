@@ -6,9 +6,9 @@ const PhraseController = require('./PhraseController')
 const getGadget = async function (request, lang){
 
   /* Lang configuration */
-  const db = lang == 'pt' ? require('../mockdata/db.json') : require('../mockdata/db-en.json')
+  const db = lang == 'pt' ? require('../mockdata/samples/pt') : require('../mockdata/samples/en')
   const {hardware} = lang == 'pt' ? require('../mockdata/hardware.json') : require('../mockdata/hardware-en.json')
-  let saveFile = lang == 'pt' ? './mockdata/classifier.json' : './mockdata/classifier-en.json'
+  let saveFile = lang == 'pt' ? './mockdata/models/classifier.json' : './mockdata/models/classifier-en.json'
   
   let classifier;
 
@@ -37,14 +37,15 @@ const getGadget = async function (request, lang){
     
     /* Classifie the requested phrase */
     const label = classifier.classify(text);
+
     let specs = {
       'xlow': hardware.xlow,
       'low': hardware.low,
       'medium': hardware.medium,
       'high': hardware.high,
       'xhigh': hardware.xhigh,
-      'premium': hardware.premium,
-      'mac': hardware.mac,
+      /* 'premium': hardware.premium,
+      'mac': hardware.mac, */
       'nlow': hardware.nlow,
       'nmedium': hardware.nmedium,
       'nhigh': hardware.nhigh,

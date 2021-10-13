@@ -1,0 +1,336 @@
+{
+    "train": [
+        {
+			"text": "Computador para trabalho e rodar jogos",
+			"label": "medium"
+        },
+        {
+			"text": "PC para trabalhar e rodar jogos",
+			"label": "medium"
+        },
+        {
+			"text": "PC para trabalho e jogos",
+			"label": "medium"
+        },
+        {
+			"text": "Computador para jogar",
+			"label": "medium"
+        },
+        {
+			"text": "Computador para jogos",
+			"label": "medium"
+        },
+        {
+			"text": "Computador Gamer",
+			"label": "medium"
+        },
+        {
+			"text": "Maquina para rodar games",
+			"label": "medium"
+        },
+        {
+			"text": "Maquina para games",
+			"label": "medium"
+        },
+        {
+			"text": "Maquina para jogos",
+			"label": "medium"
+        },
+        {
+			"text": "PC para jogos",
+			"label": "medium"
+        },
+        {
+			"text": "PC para jogar",
+			"label": "medium"
+        },
+        {
+			"text": "PC para rodar jogos",
+			"label": "medium"
+        },
+        {
+			"text": "Computador para rodar jogar",
+			"label": "medium"
+        },
+        {
+			"text": "PC para trabalhar e jogar",
+			"label": "medium"
+        },
+        {
+			"text": "Maquina para jogar e trabalhar",
+			"label": "medium"
+        },
+        {
+			"text": "Maquina para trabalhar e jogar",
+			"label": "medium"
+        },
+        {
+			"text": "PC para jogar GTA V",
+			"label": "medium"
+        },
+        {
+			"text": "PC para jogar Fortnite",
+			"label": "medium"
+        },
+        {
+			"text": "PC para jogar Apex",
+			"label": "medium"
+        },
+        {
+			"text": "PC para jogar Emuladores",
+			"label": "medium"
+        },
+        {
+			"text": "PC para jogar Battlefield",
+			"label": "medium"
+        },
+        {
+			"text": "PC para jogar Call of Duty",
+			"label": "medium"
+        },
+        {
+			"text": "PC para jogar lançamentos",
+			"label": "medium"
+        },
+        {
+			"text": "Computador para processamento de imagens",
+			"label": "medium"
+        },
+        {
+			"text": "PC para edição de vídeo em full HD",
+			"label": "medium"
+        },
+        {
+			"text": "Trabalhar e jogar as vezes",
+			"label": "medium"
+        },
+        {
+			"text": "Maquina para trabalhar e jogar de vez em quando",
+			"label": "medium"
+        },
+        {
+			"text": "Computador para trabalhar e jogar",
+			"label": "medium"
+        },
+        {
+			"text": "Computador para jogar e trabalhar",
+			"label": "medium"
+        },
+        {
+			"text": "Computador Gamer barato",
+			"label": "medium"
+        },
+        {
+			"text": "PC Gamer barato",
+			"label": "medium"
+        },
+        {
+			"text": "Maquina Gamer barata",
+			"label": "medium"
+        },
+        {
+			"text": "PC Gamer",
+			"label": "medium"
+        },
+        {
+			"text": "PC Rápido",
+			"label": "medium"
+        },
+        {
+			"text": "Laptop para jogar e trabalhar",
+			"label": "medium"
+        },
+        {
+			"text": "Computador para rodar Deepin",
+			"label": "medium"
+        },
+        {
+			"text": "Computador para Hackintosh",
+			"label": "medium"
+        },
+        {
+			"text": "Computador até 4000",
+			"label": "medium"
+        },
+        {
+			"text": "Pretendo montar um computador para as seguintes funções e programas. Orçamento R$4.000 (se puder parcelar, pode ir até uns 4.500 e 5.000), Edição de videos em 4k (Adobe Premiere Pro), Render animações (After Effects), Color Grading (DaVinci Resolve), Tratamento de fotografia (Lightroom)",
+			"label": "medium"
+        },
+        {
+			"text": "Pc para rodar docker",
+			"label": "medium"
+        },
+        {
+			"text": "Computador para jogar",
+			"label": "medium"
+        },
+        {
+			"text": "Pc para rodar Android Studio",
+			"label": "medium"
+        },
+        {
+			"text": "Pc para rodar GTA V",
+			"label": "medium"
+        },
+        {
+			"text": "Procuro um pc para rodar autocad",
+			"label": "medium"
+        },
+        {
+			"text": "Computador para rodar 3DSMAX",
+			"label": "medium"
+        },
+        {
+			"text": "Procuro um pc para rodar emuladores",
+			"label": "medium"
+        },
+        {
+			"text": "Pc para machine learning",
+			"label": "medium"
+        },
+        {
+			"text": "Pc para rodar emulador de ps2",
+			"label": "medium"
+        },
+        {
+			"text": "Jogar games competitivos",
+			"label": "medium"
+        },
+        {
+			"text": "Pc para rodar docker",
+			"label": "medium"
+        },
+        {
+			"text": "Computador para jogar",
+			"label": "medium"
+        },
+        {
+			"text": "Pc para rodar docker",
+			"label": "medium"
+        },
+        {
+			"text": "Procuro um pc para rodar autocad",
+			"label": "medium"
+        },
+        {
+			"text": "Pc para rodar Resident Evil 3",
+			"label": "medium"
+        },
+        {
+			"text": "Pc para analise de dados",
+			"label": "medium"
+        },
+        {
+			"text": "Pc para engenharia",
+			"label": "medium"
+        },
+        {
+			"text": "Pc para rodar emulador de ps2",
+			"label": "medium"
+        },
+        {
+			"text": "Para jogar vídeo game",
+			"label": "medium"
+        },
+        {
+			"text": "Desenvolver Softwares",
+			"label": "medium"
+        },
+        {
+			"text": "Computador para games",
+			"label": "medium"
+        },
+        {
+			"text": "PC para games",
+			"label": "medium"
+        },
+        {
+			"text": "Pc para GTA V",
+			"label": "medium"
+        },
+        {
+			"text": "Preciso de um pc para jogos",
+			"label": "medium"
+        },
+        {
+			"text": "Game",
+			"label": "medium"
+        },
+        {
+			"text": "Gamer",
+			"label": "medium"
+        },
+        {
+			"text": "Computador gamer",
+			"label": "medium"
+        },
+        {
+			"text": "Trabalhar",
+			"label": "medium"
+        },
+        {
+			"text": "Trabalhar e jogar",
+			"label": "medium"
+        },
+        {
+			"text": "Trabalhar com suíte adobe",
+			"label": "medium"
+        },
+        {
+			"text": "Jogos",
+			"label": "medium"
+        },
+        {
+			"text": "Trabalho e jogos",
+			"label": "medium"
+        },
+        {
+			"text": "Ciência de dados",
+			"label": "medium"
+        },
+        {
+			"text": "Desenvolver aplicativos e jogar",
+			"label": "medium"
+        },
+        {
+			"text": "Jogar e trabalhar",
+			"label": "medium"
+        },
+        {
+			"text": "Trabalho e Jogo",
+			"label": "medium"
+        },
+        {
+			"text": "Estudos, trabalho e jogar ",
+			"label": "medium"
+        },
+        {
+			"text": "Programar e jogar ",
+			"label": "medium"
+        },
+        {
+			"text": "Pc gamer",
+			"label": "medium"
+        },
+        {
+			"text": "Procuro um Procuro um notebook para jogar em qualidade média ou baixa. Bastante memória RAM",
+			"label": "medium"
+        },
+        {
+			"text": "Jogar",
+			"label": "medium"
+        },
+        {
+			"text": "PC Gamer",
+			"label": "medium"
+        },
+        {
+			"text": "Maquina Gamer",
+			"label": "medium"
+        },
+        {
+			"text": "PC para fotografia",
+			"label": "medium"
+		}
+    ]
+}

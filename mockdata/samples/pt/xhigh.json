@@ -1,0 +1,200 @@
+{
+    "train": [
+        {
+			"text": "Maquina para lives",
+			"label": "xhigh"
+        },
+        {
+			"text": "Maquina para streaming",
+			"label": "xhigh"
+        },
+        {
+			"text": "PC para streaming de vídeo",
+			"label": "xhigh"
+        },
+        {
+			"text": "Maquina para jogar com raytracing",
+			"label": "xhigh"
+        },
+        {
+			"text": "Maquina para rodar jogos pesados",
+			"label": "xhigh"
+        },
+        {
+			"text": "PC para rodar jogos pesados",
+			"label": "xhigh"
+        },
+        {
+			"text": "Quero um pc para rodar jogos pesados",
+			"label": "xhigh"
+        },
+        {
+			"text": "Computador para rodar jogos pesados",
+			"label": "xhigh"
+        },
+        {
+			"text": "Quero uma maquina para rodar jogos pesados",
+			"label": "xhigh"
+        },
+        {
+			"text": "Computador para live de gameplay",
+			"label": "xhigh"
+        },
+        {
+			"text": "PC para gameplay",
+			"label": "xhigh"
+        },
+        {
+			"text": "PC para fazer lives",
+			"label": "xhigh"
+        },
+        {
+			"text": "Computador para streaming de games",
+			"label": "xhigh"
+        },
+        {
+			"text": "Computador para streaming de jogos competitivos",
+			"label": "xhigh"
+        },
+        {
+			"text": "PC para lives de jogos competitivos",
+			"label": "xhigh"
+        },
+        {
+			"text": "Computador para games e streaming",
+			"label": "xhigh"
+        },
+        {
+			"text": "Computador para games e lives",
+			"label": "xhigh"
+        },
+        {
+			"text": "PC para games e lives",
+			"label": "xhigh"
+        },
+        {
+			"text": "Games e lives",
+			"label": "xhigh"
+        },
+        {
+			"text": "Máquina para games e lives",
+			"label": "xhigh"
+        },
+        {
+			"text": "PC para jogos pesados",
+			"label": "xhigh"
+        },
+        {
+			"text": "Computador para jogos pesados",
+			"label": "xhigh"
+        },
+        {
+			"text": "Maquina para uso profissional e games",
+			"label": "xhigh"
+        },
+        {
+			"text": "PC para uso profissional e jogos",
+			"label": "xhigh"
+        },
+        {
+			"text": "Computador para Ray Tracing",
+			"label": "xhigh"
+        },
+        {
+			"text": "PC para jogar com Ray Tracing",
+			"label": "xhigh"
+        },
+        {
+			"text": "PC para jogar em 4k",
+			"label": "xhigh"
+        },
+        {
+			"text": "Jogar CS em 4K a 144fps",
+			"label": "xhigh"
+        },
+        {
+			"text": "Computador para trabalho pesado",
+			"label": "xhigh"
+        },
+        {
+			"text": "Computador para processamento pesado",
+			"label": "xhigh"
+        },
+        {
+			"text": "PC para jogar e fazer lives",
+			"label": "xhigh"
+        },
+        {
+			"text": "Preciso de um PC para jogar e fazer lives",
+			"label": "xhigh"
+        },
+        {
+			"text": "Quero um PC para jogar e fazer lives",
+			"label": "xhigh"
+        },
+        {
+			"text": "QUero computador para jogar e fazer lives",
+			"label": "xhigh"
+        },
+        {
+			"text": "PC para games pesados",
+			"label": "xhigh"
+        },
+        {
+			"text": "Computador para programas pesados",
+			"label": "xhigh"
+        },
+        {
+			"text": "Computador para trabalhar e jogar em 4K",
+			"label": "xhigh"
+        },
+        {
+			"text": "Computador até 9000",
+			"label": "xhigh"
+        },
+        {
+			"text": "Computador até 9000",
+			"label": "xhigh"
+        },
+        {
+			"text": "PC para jogar em 4K",
+			"label": "xhigh"
+        },
+        {
+			"text": "Pc para edição de vídeo",
+			"label": "xhigh"
+        },
+        {
+			"text": "Computador para render 3D",
+			"label": "xhigh"
+        },
+        {
+			"text": "Pc para edição de vídeo",
+			"label": "xhigh"
+        },
+        {
+			"text": "Pc para edição de vídeo",
+			"label": "xhigh"
+        },
+        {
+			"text": "Pc para editar vídeos e imagens",
+			"label": "xhigh"
+        },
+        {
+			"text": "Pc para edição de vídeo",
+			"label": "xhigh"
+        },
+        {
+			"text": "Pc para render",
+			"label": "xhigh"
+        },
+        {
+			"text": "Preciso de um computador para jogar e fazer lives",
+			"label": "xhigh"
+        },
+        	{
+			"text": "Quero um pc para jogos pesados",
+			"label": "xhigh"
+		}
+    ]
+}
