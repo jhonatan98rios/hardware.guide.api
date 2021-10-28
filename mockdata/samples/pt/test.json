@@ -1,0 +1,76 @@
+{
+    "test": [
+        {
+			"text": "PC para jogar Minecraft",
+			"label": "low"
+        },
+        {
+			"text": "PC para jogar games leves como Minecraft",
+			"label": "low"
+        },
+        {
+            "text": "Pc para renderizar vídeos",
+            "label": "xhigh"
+        },
+        {
+			"text": "Jogar games antigos e trabalhar",
+			"label": "low"
+        },
+        {
+			"text": "Jogar lol e trabalhar",
+			"label": "low"
+        },
+        {
+			"text": "Quero um Notebook para modelagem 3D",
+			"label": "nhigh"
+        },
+        {
+			"text": "Preciso de um Notebook para trabalhar com edição",
+			"label": "nhigh"
+        },
+        {
+			"text": "Preciso de um Notebook para programar aplicativos",
+			"label": "nhigh"
+        },
+        {
+			"text": "Preciso de um Notebook potente",
+			"label": "nhigh"
+        },
+        {
+			"text": "Preciso de um Notebook para aplicações pesadas",
+            "label": "nhigh"
+        },
+        {
+			"text": "PC para trabalho e jogos",
+			"label": "medium"
+        },
+        {
+			"text": "Computador para jogar",
+			"label": "medium"
+        },
+        {
+			"text": "Computador para jogos",
+			"label": "medium"
+        },
+        {
+			"text": "Computador para streaming de jogos competitivos",
+			"label": "xhigh"
+        },
+        {
+			"text": "Preciso de um computador para jogar e fazer lives",
+			"label": "xhigh"
+        },
+        {
+			"text": "Quero um pc para jogos pesados",
+			"label": "xhigh"
+        },
+        {
+			"text": "Jogar mario bross e investir",
+			"label": "low"
+        },
+        {
+			"text": "Pc para trabalhar com investimento",
+			"label": "low"
+        }
+    ]
+}

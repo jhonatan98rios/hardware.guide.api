@@ -6,6 +6,9 @@ const learn_en = require('../mockdata/learn-en')
 
 const getGadget = require('../controllers/getGadget')
 
+router.get('/', async (req, res) => {
+  res.status(200).send('Working!!')
+})
 
 router.post('/api/learn', async (req, res) => {
   res.status(200).send(learn)

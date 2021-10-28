@@ -9,7 +9,8 @@
   },
   "scripts": {
     "dev": "npx nodemon app.js",
-    "start": "node app.js"
+    "start": "node app.js",
+    "test": "yarn jest"
   },
   "dependencies": {
     "cors": "^2.8.5",

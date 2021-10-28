@@ -26,10 +26,10 @@ const getGadget = async function (request, lang){
     // Write the content
     let raw = JSON.stringify(classifier);
 
-    fs.writeFile(saveFile, raw, function (err) {
+    /* fs.writeFile(saveFile, raw, function (err) {
       if (err) return console.log(err);
       console.log('WriteFile')
-    })
+    }) */
 
   } finally {
 
@@ -52,7 +52,7 @@ const getGadget = async function (request, lang){
       'default': {"message":"Sua busca falhou, tente mais tarde"}
     };
 
-    PhraseController.store({text, label})
+    //PhraseController.store({text, label})
       
     return specs[label] || specs["default"]
   }
