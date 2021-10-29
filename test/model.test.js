@@ -1,5 +1,7 @@
 const DeviceClassifier = require('../controllers/Layers/DeviceClassifier')
 const SpecClassifier = require('../controllers/Layers/SpecClassifier')
+const PurposeClassifier = require('../controllers/Layers/PurposeClassifier')
+
 const samples = require('../mockdata/samples/pt/tests/layers.json')
 
 samples.test.map((sample, i)=>{
@@ -18,6 +20,12 @@ samples.test.map((sample, i)=>{
   test(`Should return ${spec} hardware: ${i} \n \t sample: ${text}`, () => {
     return SpecClassifier(text).then(data => {
       expect(data).toBe(spec);
+    })
+  })
+
+  test(`Should return ${purpose} hardware: ${i} \n \t sample: ${text}`, () => {
+    return PurposeClassifier(text).then(data => {
+      expect(data).toBe(purpose);
     })
   })
 })

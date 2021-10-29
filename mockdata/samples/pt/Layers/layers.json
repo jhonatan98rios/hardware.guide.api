@@ -28,31 +28,31 @@
             "text": "Notebook barato",
             "device": "notebook",
             "spec": "low",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Notebook barato para estudar",
             "device": "notebook",
             "spec": "low",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Notebook para uso cotidiano",
             "device": "notebook",
             "spec": "low",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Notebook para navegação",
             "device": "notebook",
             "spec": "low",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Notebook para assistir vídeos",
             "device": "notebook",
             "spec": "low",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Notebook para escritorio",
@@ -70,7 +70,25 @@
             "text": "Notebook para faculdade",
             "device": "notebook",
             "spec": "low",
-            "purpose": "personal"
+            "purpose": "person"
+        },
+        {
+            "text": "preciso um Notebook para faculdade",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Note para facul",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Precios um Laptop novo para faculdade",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
         },
         {
             "text": "Notebook para uso administrativo",
@@ -100,25 +118,25 @@
             "text": "Notebook para rodar Lubuntu",
             "device": "notebook",
             "spec": "low",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Notebook até 2000",
             "device": "notebook",
             "spec": "low",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Notebook para estudar",
             "device": "notebook",
             "spec": "low",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Notebook para uso no dia a dia",
             "device": "notebook",
             "spec": "low",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Notebook para trabalhos administrativos",
@@ -130,7 +148,7 @@
             "text": "Notebook para uso simples, de baixo custo",
             "device": "notebook",
             "spec": "low",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Notebook para jogos leves e trabalho",
@@ -142,13 +160,13 @@
             "text": "Notebook para jogar Minecraft",
             "device": "notebook",
             "spec": "low",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Quero um notebook para jogar games como Minecraft",
             "device": "notebook",
             "spec": "low",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Notebook para editar imagem",
@@ -334,151 +352,151 @@
             "text": "Notebook para jogar barato",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Notebook para rodar jogos barato",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Notebook barato para rodar jogos",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Notebook barato para jogos",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Notebook barato para estudos e games",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Notebook barato para jogar",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Notebook para jogar jogos leves",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Notebook para jogar de vez em quando",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Notebook para games leves",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Notebook para uso simples",
             "device": "notebook",
             "spec": "low",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Notebook para rodar Linux",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Notebook para rodar Ubuntu",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Notebook para rodar Linux Mint",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Notebook até 3000",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Preciso de um note para jogar barato",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Preciso de um note para rodar jogos barato",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Preciso de um note barato para rodar jogos",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Preciso de um note barato para jogos",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Preciso de um note barato para estudos e games",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Preciso de um note barato para jogar",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Preciso de um note barato para edição",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Preciso de um note para jogar jogos leves",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Preciso de um note para jogar de vez em quando",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Preciso de um note para games leves",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Preciso de um note para uso simples",
             "device": "notebook",
             "spec": "low",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Preciso de um note para trabalho",
@@ -490,25 +508,25 @@
             "text": "Preciso de um note para rodar Linux",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Preciso de um note para rodar Ubuntu",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Preciso de um note para rodar Linux Mint",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Preciso de um note até 3000",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Notebook para rodar jogos leves e para trabalhos com artes digitais em programas como Photoshop, Corel, Figma e ilustrator",
@@ -526,13 +544,13 @@
             "text": "Procuro um Notebook para rodar apenas jogos leves como League of Legends",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Procuro um Notebook para rodar League of Legends",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Notebook barato para trabalhar",
@@ -568,25 +586,49 @@
             "text": "notebook para jogar league of legends",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Notebook para jogar PUBG Lite",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Notebook para jogar League of Legends",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Notebook para jogar CS GO",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
+        },
+        {
+            "text": "Quero um Notebook que rode CS GO",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Quero um Notebook para jogar Counter Strike GO",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Note para jogar CS Source",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Note que rode jogar CS Source",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
         },
         {
             "text": "Notebook para trabalhar com audiovisual",
@@ -598,49 +640,67 @@
             "text": "Quero um note para estudar",
             "device": "notebook",
             "spec": "low",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Quero um note para uso no dia a dia",
             "device": "notebook",
             "spec": "low",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Quero um note para uso simples, de baixo custo",
             "device": "notebook",
             "spec": "low",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Quero um note para jogar PUBG Lite",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Quero um note para jogar League of Legends",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Quero um note para jogar CS GO",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Quero um note para jogar Minecraft",
             "device": "notebook",
             "spec": "low",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Quero um note para trabalhar com audiovisual",
             "device": "notebook",
             "spec": "high",
             "purpose": "pro"
+        },
+        {
+            "text": "Quero um note para rodar games pesados",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Quero um note que rode jogos pesados",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Note que rode jogos pesados",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
         },
         {
             "text": "Notebook barato para edição",
@@ -682,7 +742,7 @@
             "text": "Notebook para jogos leves",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Notebook para rodar Android Studio",
@@ -700,7 +760,7 @@
             "text": "Notebook barato para games",
             "device": "notebook",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Notebook para programação",
@@ -1903,6 +1963,24 @@
             "purpose": "person"
         },
         {
+            "text": "notebook potente e rápido",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook potente que rode jogos pesados",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Quero um notebook potente para jogar",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
             "text": "qual melhor notebook para jogar",
             "device": "notebook",
             "spec": "high",
@@ -2056,7 +2134,7 @@
             "text": "PC para jogar League of Legends",
             "device": "desktop",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Procuro um pc para rodar apenas jogos leves como League of Legends ou MTG Arena e principalmente para trabalhos com artes digitais em programas como Corel, Figma, ilustrator ou Photoshop.",
@@ -2068,13 +2146,13 @@
             "text": "Procuro um pc para rodar apenas jogos leves como League of Legends",
             "device": "desktop",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Procuro um pc para rodar League of Legends",
             "device": "desktop",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Quero um pc para jogos leves como League of Legends e para trabalhos com artes digitais",
@@ -2104,19 +2182,19 @@
             "text": "PC simples",
             "device": "desktop",
             "spec": "low",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "PC para uso leve",
             "device": "desktop",
             "spec": "low",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Maquina para jogar jogos leves",
             "device": "desktop",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "PC para design",
@@ -2134,13 +2212,13 @@
             "text": "Gostaria de um pc para jogar games leves",
             "device": "desktop",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Computador simples",
             "device": "desktop",
             "spec": "low",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Computador para trabalho e rodar jogos",
@@ -2164,61 +2242,61 @@
             "text": "Computador para jogar",
             "device": "desktop",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Computador para jogos",
             "device": "desktop",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Computador Gamer",
             "device": "desktop",
             "spec": "high",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Maquina para rodar games",
             "device": "desktop",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Maquina para games",
             "device": "desktop",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Maquina para jogos",
             "device": "desktop",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "PC para jogos",
             "device": "desktop",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "PC para jogar",
             "device": "desktop",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "PC para rodar jogos",
             "device": "desktop",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Computador para rodar jogar",
             "device": "desktop",
             "spec": "mid",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "PC para trabalhar e jogar",
@@ -2318,6 +2396,18 @@
         },
         {
             "text": "Computador para faculdade",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para fazer os trabalhos da faculdade",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina para faculdade",
             "device": "desktop",
             "spec": "low",
             "purpose": "person"
@@ -2776,31 +2866,31 @@
             "text": "Quero um computador para jogar games como Minecraft",
             "device": "desktop",
             "spec": "low",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Quero um computador para jogar alguns jogos leves",
             "device": "desktop",
             "spec": "low",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Computador para jogar jogos leves como Roblox e Minecraft",
             "device": "desktop",
             "spec": "low",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Computador barato que rode Minecraft",
             "device": "desktop",
             "spec": "low",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "Maquina para jogar alguns jogos leves",
             "device": "desktop",
             "spec": "low",
-            "purpose": "personal"
+            "purpose": "person"
         },
         {
             "text": "PC para rodar jogos leves e para trabalhos com artes digitais em programas como Photoshop, Corel, Figma e ilustrator",
@@ -3547,6 +3637,24 @@
             "purpose": "person"
         },
         {
+            "text": "Computador para jogos pesados atuais",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador que rode liso games mais pesados",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador que rode qualquer game",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
             "text": "PC para rodar jogos pesados",
             "device": "desktop",
             "spec": "high",
@@ -3728,6 +3836,30 @@
         },
         {
             "text": "Quero um pc para jogos pesados",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador que rode jogos pesados",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina para rodar games pesados",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para rodar games pesados",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Quero um desktop para rodar games pesados",
             "device": "desktop",
             "spec": "high",
             "purpose": "person"
@@ -4460,6 +4592,18 @@
         },
         {
             "text": "Jogar mario bross e investir",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para Day Trade",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para trabalhar com Day Trade",
             "device": "desktop",
             "spec": "mid",
             "purpose": "pro"

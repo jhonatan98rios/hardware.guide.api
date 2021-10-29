@@ -4,9 +4,6 @@
   "main": "app.js",
   "author": "Jhonatan Teixeira Rios",
   "license": "MIT",
-  "engines": {
-    "node": "10.x"
-  },
   "scripts": {
     "dev": "npx nodemon app.js",
     "start": "node app.js",

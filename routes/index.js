@@ -1,10 +1,12 @@
 const express = require('express');
 const router = express.Router();
 
-const learn = require('../mockdata/learn')
-const learn_en = require('../mockdata/learn-en')
+const learn = require('../mockdata/learn/learn')
+const learn_en = require('../mockdata/learn/learn-en')
 
 const DeviceClassifier = require('../controllers/Layers/DeviceClassifier')
+const SpecClassifier = require('../controllers/Layers/SpecClassifier')
+const PurposeClassifier = require('../controllers/Layers/PurposeClassifier')
 
 
 
@@ -17,8 +19,14 @@ router.post('/api/smart', async (req, res) => {
 
   if( req.body.text && req.body.text.length > 0 && req.body.text.length < 1024 ){
     try {
-      let result = await DeviceClassifier(req.body.text)
-      res.status(200).send(result)
+
+      let promise = Promise.all([DeviceClassifier(req.body.text), SpecClassifier(req.body.text), PurposeClassifier(req.body.text)])
+
+      promise.then((response) => {
+
+        res.status(200).send(response)
+      })
+
       
     } catch (error) {
       console.log(error)
