@@ -10,18 +10,8 @@ function clearArray(array) {
     return [...new Set(array)]
 }
 
-function elementsClassifier(array, label) {
-    return array.map(item => {
-        return {
-            text: item,
-            label: label
-        }
-    })
-}
-
 
 module.exports = {
     shuffleArray,
-    clearArray,
-    elementsClassifier
+    clearArray
 }

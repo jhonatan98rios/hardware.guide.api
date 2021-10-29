@@ -1,14 +1,23 @@
 const DeviceClassifier = require('../controllers/Layers/DeviceClassifier')
-const samples = require('../mockdata/samples/pt/layer_1/test.json')
+const SpecClassifier = require('../controllers/Layers/SpecClassifier')
+const samples = require('../mockdata/samples/pt/tests/layers.json')
 
-samples.test.map((request, i)=>{
+samples.test.map((sample, i)=>{
 
-  let text = request.text
-  let label = request.label
+  let text = sample.text
+  let device = sample.device
+  let spec = sample.spec
+  let purpose = sample.purpose
 
-  test(`Should return ${label} hardware: ${i} \n \t sample: ${text}`, () => {
+  test(`Should return ${device} hardware: ${i} \n \t sample: ${text}`, () => {
     return DeviceClassifier(text).then(data => {
-      expect(data).toBe(label);
+      expect(data).toBe(device);
+    })
+  })
+
+  test(`Should return ${spec} hardware: ${i} \n \t sample: ${text}`, () => {
+    return SpecClassifier(text).then(data => {
+      expect(data).toBe(spec);
     })
   })
 })

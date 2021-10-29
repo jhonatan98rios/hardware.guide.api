@@ -3,29 +3,20 @@ const natural = require('natural');
 
 const utils = require('../../utilities')
 
-
 const DeviceClassifier = async function (text){
+ 
+  const raw = require('../../mockdata/samples/pt/Layers/layers.json')
 
-  /* Lang configuration */
-  const raw = require('../../mockdata/samples/pt/layer_1/index.json')
-
-  const clrd_notebooks = utils.clearArray(raw.notebooks)
-  const clrd_desktops = utils.clearArray(raw.desktops)
-  
-  const classified_data = [
-    ...utils.elementsClassifier(clrd_notebooks, 'notebook'),
-    ...utils.elementsClassifier(clrd_desktops, 'desktop'), 
-  ]
-
-  const unordered_data = utils.shuffleArray(classified_data)
+  const samples = utils.clearArray(raw.samples)
+  const shuffled_samples = utils.shuffleArray(samples)
 
   // Train the model and save he in classifier
   let classifier = new natural.BayesClassifier();
-  unordered_data.forEach((item) => classifier.addDocument(item.text, item.label))
+  shuffled_samples.forEach((item) => classifier.addDocument(item.text, item.device))
   classifier.train();
   
   /* Classifie the requested phrase */
-  let result = classifier.classify(text);
+  let result = classifier.classify(text)
   return result
 }
 
