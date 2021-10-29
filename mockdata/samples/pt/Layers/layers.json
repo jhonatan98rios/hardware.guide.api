@@ -73,6 +73,12 @@
             "purpose": "person"
         },
         {
+            "text": "Quero um laptop novo para a faculdade",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
             "text": "preciso um Notebook para faculdade",
             "device": "notebook",
             "spec": "low",
