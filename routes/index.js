@@ -4,10 +4,10 @@ const router = express.Router();
 const learn = require('../mockdata/learn/learn')
 const learn_en = require('../mockdata/learn/learn-en')
 
-const DeviceClassifier = require('../controllers/Layers/DeviceClassifier')
-const SpecClassifier = require('../controllers/Layers/SpecClassifier')
-const PurposeClassifier = require('../controllers/Layers/PurposeClassifier')
-
+const deviceClassifier = require('../controllers/LayersControllers/deviceClassifier')
+const specClassifier = require('../controllers/LayersControllers/specClassifier')
+const purposeClassifier = require('../controllers/LayersControllers/purposeClassifier')
+const productsController = require('../controllers/productsController/index')
 
 
 router.post('/api/learn', async (req, res) => {
@@ -17,16 +17,19 @@ router.post('/api/learn', async (req, res) => {
 
 router.post('/api/smart', async (req, res) => {
 
-  if( req.body.text && req.body.text.length > 0 && req.body.text.length < 1024 ){
+  if( req.body.text.length > 0 && req.body.text.length < 1024 ){
     try {
-
-      let promise = Promise.all([DeviceClassifier(req.body.text), SpecClassifier(req.body.text), PurposeClassifier(req.body.text)])
+      const promise = Promise.all([deviceClassifier(req.body.text), specClassifier(req.body.text), purposeClassifier(req.body.text)])
 
       promise.then((response) => {
+        const [device, spec, purpose] = response
 
-        res.status(200).send(response)
+        const products = productsController({
+          device, spec, purpose
+        })
+
+        res.status(200).send(products)
       })
-
       
     } catch (error) {
       console.log(error)
@@ -34,7 +37,7 @@ router.post('/api/smart', async (req, res) => {
     }
     
 	}else{
-    let result = { message: 'Houve um problema ao executar a operação. Tente mais tarde'};    
+    let result = { message: 'O texto inserido é inválido'};    
     res.status(500).send(result)
   }
 })
