@@ -1,0 +1,255 @@
+{
+  "notebook": {
+    "low": {
+      "person": [
+        {
+          "name": "Samsung Galaxy Book Go",
+          "image": "https://images2.kabum.com.br/produtos/fotos/222352/notebook-samsung-galaxy-book-go-snapdragon-7c-4gb-128gb-ssd-windows-10-home-14-prata-np340xla-k02br_1631537268_g.jpg",
+          "moba": "",
+          "cpu": "Snapdragon 7C",
+          "storage": "128GB SSD",
+          "ram": "4GB",
+          "gpu": "Qualcomm AdrenoTM GPU 618",
+          "price": "2.710,00",
+          "screen": "14 inch FHD LED Display (1920 x 1080), Antirreflexiva",
+          "link": "https://m.kabum.com.br/produto/222352/notebook-samsung-galaxy-book-go-snapdragon-7c-4gb-128gb-ssd-windows-10-home-14-prata-np340xla-k03br"
+        },
+        {
+          "name": "Positivo Motion I34128GB",
+          "image": "https://images.kabum.com.br/produtos/fotos/196061/notebook-positivo-motion-i34128gb-intel-core-i3-6157u-4gb-128gb-ssd-windows-10-home-14-hd-cinza-3011902_1629398816_gg.jpg",
+          "moba": "",
+          "cpu": "Intel Core i3-6157U",
+          "storage": "128GB SSD",
+          "ram": "4GB",
+          "gpu": "Intel  Iris 550",
+          "price": "2.843,33",
+          "screen": "14 inch 1366 x 768, Antireflexo",
+          "link": "https://www.kabum.com.br/produto/196061/notebook-positivo-motion-i34128gb-intel-core-i3-6157u-4gb-128gb-ssd-windows-10-home-14-hd-cinza-3011902"
+        },
+        {
+          "name": "Multilaser Ultra",
+          "image": "https://images4.kabum.com.br/produtos/fotos/153774/notebook-ultra-intel-core-i5-5257u-8gb-1tb-hdd-15-6-windows-10-prata-ub521_1619788436_g.jpg",
+          "moba": "",
+          "cpu": " Intel Core i5",
+          "storage": "1TB HDD",
+          "ram": "8GB",
+          "gpu": "Intel iris graphics 6100",
+          "price": "3.187,78",
+          "screen": "15 inch 1366 x 768",
+          "link": "https://m.kabum.com.br/produto/153774/notebook-ultra-intel-core-i5-5257u-8gb-1tb-hdd-15-6-windows-10-prata-ub521"
+        }
+      ],
+      "pro": [
+        {
+          "name": "Positivo Motion I34128GB",
+          "image": "https://images.kabum.com.br/produtos/fotos/196061/notebook-positivo-motion-i34128gb-intel-core-i3-6157u-4gb-128gb-ssd-windows-10-home-14-hd-cinza-3011902_1629398816_gg.jpg",
+          "moba": "",
+          "cpu": "Intel Core i3-6157U",
+          "storage": "128GB SSD",
+          "ram": "4GB",
+          "gpu": "Intel Iris 550",
+          "price": "2.843,33",
+          "screen": "14 inch 1366 x 768, Antireflexo",
+          "link": "https://www.kabum.com.br/produto/196061/notebook-positivo-motion-i34128gb-intel-core-i3-6157u-4gb-128gb-ssd-windows-10-home-14-hd-cinza-3011902"
+        },
+        {
+          "name": "Multilaser Ultra",
+          "image": "https://images4.kabum.com.br/produtos/fotos/153774/notebook-ultra-intel-core-i5-5257u-8gb-1tb-hdd-15-6-windows-10-prata-ub521_1619788436_g.jpg",
+          "moba": "",
+          "cpu": " Intel Core i5",
+          "storage": "1TB HDD",
+          "ram": "8GB",
+          "gpu": "Intel iris graphics 6100",
+          "price": "3.187,78",
+          "screen": "15 inch 1366 x 768",
+          "link": "https://m.kabum.com.br/produto/153774/notebook-ultra-intel-core-i5-5257u-8gb-1tb-hdd-15-6-windows-10-prata-ub521"
+        },
+        {
+          "name": "Lenovo Ultrafino Ideapad S145",
+          "image": "https://images.kabum.com.br/produtos/fotos/179446/notebook-lenovo-ultrafino-ideapad-s145-ryzen-5-3500u-8gb-256gb-ssd-m-2-nvm4e-15-6-dolby-audio-windows-10-home-prata-81v70008br_1628002673_gg.jpg",
+          "moba": "",
+          "cpu": "Ryzen 5-3500U",
+          "storage": "256GB SSD M.2 NVM4e",
+          "ram": "8GB",
+          "gpu": "AMD Radeon RX Vega 8",
+          "price": "3.189,37",
+          "screen": "15.6 inch 1366x768, Antirreflexo",
+          "link": "kabum.com.br/produto/179446/notebook-lenovo-ultrafino-ideapad-s145-ryzen-5-3500u-8gb-256gb-ssd-m-2-nvm4e-15-6-dolby-audio-windows-10-home-prata-81v70008br"
+        }
+      ]
+    },
+
+    "mid": {
+      "person": [
+        {
+          "name": "Lenovo Ultrafino Ideapad S145",
+          "image": "https://images.kabum.com.br/produtos/fotos/179446/notebook-lenovo-ultrafino-ideapad-s145-ryzen-5-3500u-8gb-256gb-ssd-m-2-nvm4e-15-6-dolby-audio-windows-10-home-prata-81v70008br_1628002673_gg.jpg",
+          "moba": "",
+          "cpu": "Ryzen 5-3500U",
+          "storage": "256GB SSD M.2 NVM4e",
+          "ram": "8GB",
+          "gpu": "AMD Radeon RX Vega 8",
+          "price": "3.189,37",
+          "screen": "15.6 inch 1366x768, Antirreflexo",
+          "link": "kabum.com.br/produto/179446/notebook-lenovo-ultrafino-ideapad-s145-ryzen-5-3500u-8gb-256gb-ssd-m-2-nvm4e-15-6-dolby-audio-windows-10-home-prata-81v70008br"
+        },
+        {
+          "name": "Acer Aspire 3",
+          "image": "https://images.kabum.com.br/produtos/fotos/184928/notebook-acer-aspire-3-intel-core-i3-8gb-ram-2x4-ssd-512gb-15-6-full-hd-windows-10-cinza-nx-hv1al-00k_1628265879_gg.jpg",
+          "moba": "",
+          "cpu": "Intel Core i3-1005G1",
+          "storage": "512GB SSD",
+          "ram": " 8GB RAM",
+          "gpu": "UHD Intel Core 10ª Geração",
+          "price": "3.388,42",
+          "screen": "15.6 inch HD 1920x1080",
+          "link": "https://www.kabum.com.br/produto/184928/notebook-acer-aspire-3-intel-core-i3-1005g1-8gb-ram-2x4gb-ssd-512gb-15-6-full-hd-windows-10-cinza-a315-56-304q"
+        },
+        {
+          "name": "Lenovo Ideapad 3i",
+          "image": "https://images.kabum.com.br/produtos/fotos/156935/notebook-lenovo-ideapad-3i-intel-core-i5-10210u-uhd-graphics-8gb-ram-256gb-ssd-15-6-windows-10-prata-82bs0005br_1622468345_gg.jpg",
+          "moba": "",
+          "cpu": "Intel i5-10210U",
+          "storage": "256GB SSD",
+          "ram": "8GB RAM",
+          "gpu": "UHD Intel Core 10ª Geração",
+          "price": "3.494,63",
+          "screen": "15.6 inch HD 1366x768, Antirreflexo",
+          "link": "kabum.com.br/produto/156935/notebook-lenovo-ideapad-3i-intel-core-i5-10210u-uhd-graphics-8gb-ram-256gb-ssd-15-6-windows-10-prata-82bs0005br"
+        }
+      ],
+      "pro": [
+        {
+          "name": "Lenovo Ideapad 3i",
+          "image": "https://images.kabum.com.br/produtos/fotos/156935/notebook-lenovo-ideapad-3i-intel-core-i5-10210u-uhd-graphics-8gb-ram-256gb-ssd-15-6-windows-10-prata-82bs0005br_1622468345_gg.jpg",
+          "moba": "",
+          "cpu": "Intel i5-10210U",
+          "storage": "256GB SSD",
+          "ram": "8GB RAM",
+          "gpu": "UHD Intel Core 10ª Geração",
+          "price": "3.494,63",
+          "screen": "15.6 inch HD 1366x768, Antirreflexo",
+          "link": "kabum.com.br/produto/156935/notebook-lenovo-ideapad-3i-intel-core-i5-10210u-uhd-graphics-8gb-ram-256gb-ssd-15-6-windows-10-prata-82bs0005br"
+        },
+        {
+          "name": "Acer Aspire 3",
+          "image": "https://images.kabum.com.br/produtos/fotos/156098/notebook-acer-aspire-3-amd-ryzen-5-3500u-8gb-256gb-ssd-15-6-hd-1366x768-windows-10-home-preto-a315-23-r6m7_1629130165_gg.jpg",
+          "moba": "",
+          "cpu": "Ryzen 5-3500U",
+          "storage": "256GB SSD",
+          "ram": "8GB ",
+          "gpu": "Radeon RX Vega 8",
+          "price": "3.554,44",
+          "screen": "15.6 inch HD 1366x768",
+          "link": "https://www.kabum.com.br/produto/156098/notebook-acer-aspire-3-amd-ryzen-5-3500u-8gb-256gb-ssd-15-6hd-1366x768-windows-10-home-preto-a315-23-r6m7"
+        },
+        {
+          "name": "ASUS M515DA-EJ533T",
+          "image": "https://images.kabum.com.br/produtos/fotos/156499/notebook-asus-amd-ryzen-7-8gb-ram-256-gb-ssd-windows-10-home-preto-m515da-ej533t_1621426404_gg.jpg",
+          "moba": "",
+          "cpu": "AMD Ryzen 7 3700U",
+          "storage": "256 GB SSD",
+          "ram": "8 GB",
+          "gpu": "Radeon RX Vega 10",
+          "price": "4.132,22",
+          "screen": "15.6 inch HD 1920x1080",
+          "link": "https://www.kabum.com.br/produto/156499/notebook-asus-amd-ryzen-7-8gb-ram-256-gb-ssd-15-6-full-hd-windows-10-home-cinza-escuro-m515da-ej533t"
+        }
+      ]
+    },
+
+    "high": {
+      "person": [
+        {
+          "name": "ASUS VivoBook X513EP-EJ232",
+          "image": "https://images.kabum.com.br/produtos/fotos/155589/notebook-asus-vivobook-x513ep-ej232-intel-core-i7-1165g7-nvidia-geforce-mx330-8gb-ram-256gb-ssd-endless-os-preto-90nb0sj4-m04370_1628168744_gg.jpg",
+          "moba": "",
+          "cpu": "Intel Core I7 1165G7",
+          "storage": "256GB SSD",
+          "ram": "8GB RAM",
+          "gpu": "NVIDIA GeForce MX330",
+          "price": "5.654,44",
+          "screen": "15.6 inch Full HD",
+          "link": "https://www.kabum.com.br/produto/155589/notebook-asus-vivobook-x513ep-ej232-intel-core-i7-1165g7-nvidia-geforce-mx330-8gb-ram-256gb-ssd-endless-os-preto-90nb0sj4-m04370"
+        },
+        {
+          "name": "Asus Gamer X571GT-AL887T",
+          "image": "https://images.kabum.com.br/produtos/fotos/133034/notebook-asus-gamer-intel-core-i5-9300h-8gb-256gb-ssd-tela-15-6-full-hd-120hz-nvidia-gtx-1650-windows-10-home-x571gt-al887t_1611755954_gg.jpg",
+          "moba": "",
+          "cpu": "Intel Core i5 9300H",
+          "storage": "256GB SSD",
+          "ram": "8GB",
+          "gpu": "NVIDIA GTX 1650",
+          "price": "6.088,78",
+          "screen": "15.6 inch Full HD 120Hz",
+          "link": "https://www.kabum.com.br/produto/133034/notebook-asus-gamer-intel-core-i5-9300h-8gb-256gb-ssd-tela-15-6-full-hd-120hz-nvidia-gtx-1650-windows-10-home-x571gt-al887t"
+        },
+        {
+          "name": "Acer Nitro 5",
+          "image": "https://images.kabum.com.br/produtos/fotos/159820/notebook-gamer-acer-nitro-5-amd-ryzen-7-4800h-8gb-ssd-512gb-gtx-1650-ti-4gb-15-6-windows-10-home-preto-e-vermelho-an515-44-r8hn_1623092842_gg.jpg",
+          "moba": "",
+          "cpu": "AMD Ryzen 7 4800H",
+          "storage": "512 SSD",
+          "ram": "8GB",
+          "gpu": "GTX 1650 Ti 4GB",
+          "price": "6.555,44",
+          "screen": "15.6 inch Full HD 144 Hz",
+          "link": "https://www.kabum.com.br/produto/159820/notebook-gamer-acer-nitro-5-amd-ryzen-7-4800h-8gb-ssd-512gb-gtx-1650-ti-4gb-15-6-windows-10-home-preto-e-vermelho-an515-44-r8hn"
+        }
+      ],
+      "pro": [
+        {
+          "name": "Acer Nitro 5",
+          "image": "https://images.kabum.com.br/produtos/fotos/156190/notebook-gamer-acer-nitro-5-intel-core-i7-10750h-gtx-1660ti-6gb-8gb-ram-512gb-ssd-15-6-win-10-home-preto-vermelho-an515-55-705u_1620765142_gg.jpg",
+          "moba": "",
+          "cpu": " Intel Core i7-10750H",
+          "storage": "512 SSD",
+          "ram": "8GB",
+          "gpu": "GTX 1660TI 6GB",
+          "price": "9.444,33",
+          "screen": "15.6 inch Full HD 144 Hz",
+          "link": "https://www.kabum.com.br/produto/156190/notebook-gamer-acer-nitro-5-intel-core-i7-10750h-gtx-1660ti-6gb-8gb-ram-512gb-ssd-15-6-win-10-home-preto-vermelho-an515-55-705u"
+        },
+        {
+          "name": "Gigabyte G5",
+          "image": "https://images.kabum.com.br/produtos/fotos/158000/notebook-gamer-gigabyte-g5-intel-core-i5-10500h-16gb-512gb-15-6-fhd-240hz-nvidia-rtx-3060p-6gb-windows-10-home-preto-kc-5br2130sh_1622663251_gg.jpg",
+          "moba": "",
+          "cpu": "Intel Core i5-10500H",
+          "storage": "SSD 512GB",
+          "ram": "16GB",
+          "gpu": "Nvidia RTX 3060 6GB",
+          "price": "9.473,58",
+          "screen": "15.6 inch Full HD 240 Hz",
+          "link": "https://www.kabum.com.br/produto/158000/notebook-gamer-gigabyte-g5-intel-core-i5-10500h-16gb-ssd-512gb-15-6-fhd-240hz-nvidia-rtx-3060-6gb-windows-10-home-preto-kc-5br2130sh"
+        },
+        {
+          "name": "Lenovo Legion 5i",
+          "image": "https://images.kabum.com.br/produtos/fotos/170991/notebook-gamer-lenovo-legion-5i-intel-core-i7-10750h-2-6ghz-nvidia-rtx-2060-16gb-ram-ssd-512gb-win-10-home-phantom-black-82cf0002br_1626788446_gg.jpg",
+          "moba": "",
+          "cpu": "Intel Core i7-10750H",
+          "storage": "SSD 512GB M.2 PCIe NVMe",
+          "ram": "16GB RAM",
+          "gpu": "NVIDIA RTX 2060",
+          "price": "10.143,33",
+          "screen": "15.6 inch Full HD 120 Hz",
+          "link": "https://www.kabum.com.br/produto/170991/notebook-gamer-lenovo-legion-5i-intel-core-i7-10750h-nvidia-rtx-2060-16gb-ram-ssd-512gb-win-10-home-phantom-black-82cf0002br"
+        }
+      ]
+    }
+  },
+
+  "desktop": {
+    "low": {
+      "person": [],
+      "pro": []
+    },
+    "mid": {
+      "person": [],
+      "pro": []
+    },
+    "high": {
+      "person": [],
+      "pro": []
+    }
+  }
+}
