@@ -2,7 +2,7 @@ const express = require('express');
 const router = express.Router();
 
 const learn = require('../mockdata/learn/learn')
-const learn_en = require('../mockdata/learn/learn-en')
+//const learn_en = require('../mockdata/learn/learn-en')
 
 const deviceClassifier = require('../controllers/LayersControllers/deviceClassifier')
 const specClassifier = require('../controllers/LayersControllers/specClassifier')
@@ -14,7 +14,6 @@ router.post('/api/learn', async (req, res) => {
   res.status(200).send(learn)
 })
 
-
 router.post('/api/smart', async (req, res) => {
 
   if( req.body.text.length > 0 && req.body.text.length < 1024 ){
@@ -23,7 +22,6 @@ router.post('/api/smart', async (req, res) => {
 
       promise.then((response) => {
         const [device, spec, purpose] = response
-
         const products = productsController({
           device, spec, purpose
         })

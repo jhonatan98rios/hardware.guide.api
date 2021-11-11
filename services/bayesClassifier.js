@@ -14,7 +14,6 @@ const bayesClassifier = async function ({ text = '', modelFile = '', key = '' })
     classifier = natural.BayesClassifier.restore(JSON.parse(model));
 
   } catch {
-
     const samples = utils.preProcess({ array: raw })
 
     // Train the model and save he in classifier
@@ -31,7 +30,6 @@ const bayesClassifier = async function ({ text = '', modelFile = '', key = '' })
     })
 
   } finally {
-
     /* Classifie the requested phrase */
     let result = classifier.classify(text)
     return result

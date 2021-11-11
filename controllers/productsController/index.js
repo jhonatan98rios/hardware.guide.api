@@ -1,4 +1,4 @@
-const hardware = require('../../mockdata/hardware/hardware_new.json').hardware
+const hardware = require('../../mockdata/hardware/index.json')
 
 const productsController = ({ device="desktop", spec="mid", purpose="person" }) => {
 
