@@ -1,8 +1,16 @@
-const hardware = require('../../mockdata/hardware/index.json')
+const Product = require('../../models/Product')
+const mongoose = require('../../database/connection')
 
-const productsController = ({ device="desktop", spec="mid", purpose="person" }) => {
 
-    return hardware[device][spec][purpose]
+function getProductsByCategory({ device = "desktop", spec = "mid", purpose = "person" }, res) {
+  return Product.find({ device, spec, purpose }, function (err, docs){
+  
+    if (err) console.log("AAAAH MERDA: ", err)
+
+    res.status(200).send(docs)
+  })
 }
 
-module.exports = productsController
+module.exports = {
+  getProductsByCategory
+}
