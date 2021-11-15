@@ -46,6 +46,18 @@ router.post('/api/smart', async (req, res) => {
 })
 
 
+router.post('/api/popular', async (req, res) => {
+
+  try {
+    const {device, spec, purpose} = req.body
+    getProductsByCategory({ device, spec, purpose }, res)
+
+  } catch (error) {
+    res.send(error)
+  }
+})
+
+
 /* EN */
 
 /* router.post('/api/learn_en', async (req, res) => {
