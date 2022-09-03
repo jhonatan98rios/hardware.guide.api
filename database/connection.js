@@ -5,7 +5,8 @@ mongoose.connect(
   uri, {
     promiseLibrary: global.Promise,
     useNewUrlParser: true,
-    useUnifiedTopology: true
+    useUnifiedTopology: true,
+    useCreateIndex: true
   }
 ).then(() => {
   console.log("We're connected!")

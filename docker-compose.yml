@@ -1,0 +1,17 @@
+version: '3.3'
+
+services: 
+  express:
+    build: ./
+    restart: always
+    env_file: 
+      - ./.env
+    ports:
+      - "5000:5000"
+    volumes: 
+      - "C:\\Users\\Desktop\\Projects\\pessoal\\Guia_de_Hardware\\HardwareGuide.api:/app"
+    networks:
+      - hardwareguidenet
+
+networks:
+  hardwareguidenet:

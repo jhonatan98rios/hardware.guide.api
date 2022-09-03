@@ -1,16 +1,33 @@
-const getGadget = require('../controllers/getGadget')
-const {hardware} = require('../mockdata/hardware.json')
-const {tests} = require('../mockdata/db.json')
+const DeviceClassifier = require('../controllers/Layers/DeviceClassifier')
+const SpecClassifier = require('../controllers/Layers/SpecClassifier')
+const PurposeClassifier = require('../controllers/Layers/PurposeClassifier')
 
-tests.map((request, i)=>{
+const samples = require('../mockdata/samples/pt/tests/layers.json')
 
-  let client = { text: request.text }
-  let label = request.label
+samples.test.map((sample, i)=>{
 
-  test(`Should return ${label} hardware: ${i}`, () => {
-    return getGadget(client).then(data => {
-      expect(data).toBe(hardware[label]);
-    });
-  });
+  let text = sample.text
+  let device = sample.device
+  let spec = sample.spec
+  let purpose = sample.purpose
 
+  test(`Should return ${device} hardware: ${i} \n \t sample: ${text}`, () => {
+    return DeviceClassifier(text).then(data => {
+      expect(data).toBe(device);
+    })
+  })
+
+  test(`Should return ${spec} hardware: ${i} \n \t sample: ${text}`, () => {
+    return SpecClassifier(text).then(data => {
+      expect(data).toBe(spec);
+    })
+  })
+
+  test(`Should return ${purpose} hardware: ${i} \n \t sample: ${text}`, () => {
+    return PurposeClassifier(text).then(data => {
+      expect(data).toBe(purpose);
+    })
+  })
 })
+
+
