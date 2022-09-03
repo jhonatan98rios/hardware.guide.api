@@ -6,11 +6,11 @@ const learn = require('../mockdata/learn/learn')
 
 const deviceClassifier = require('../controllers/LayersControllers/deviceClassifier')
 const specClassifier = require('../controllers/LayersControllers/specClassifier')
-const purposeClassifier = require('../controllers/LayersControllers/purposeClassifier')
+//const purposeClassifier = require('../controllers/LayersControllers/purposeClassifier')
 //const productsController = require('../controllers/productsController/index')
 
 const { getProductsByCategory } = require('../controllers/productsController');
-const Product = require('../models/Product');
+//const Product = require('../models/Product');
 
 
 router.post('/api/learn', async (req, res) => {
@@ -21,13 +21,14 @@ router.post('/api/smart', async (req, res) => {
 
   if( req.body.text.length > 0 && req.body.text.length < 1024 ){
     try {
-      const classifications = Promise.all([deviceClassifier(req.body.text), specClassifier(req.body.text), purposeClassifier(req.body.text)])
+      const classifications = Promise.all([deviceClassifier(req.body.text), specClassifier(req.body.text)])
 
       classifications.then(async (response) => {
 
         try {
-          const [device, spec, purpose] = response
-          getProductsByCategory({ device, spec, purpose }, res)
+          const [device, spec] = response
+
+          getProductsByCategory({ device, spec }, res)
 
         } catch (error) {
           res.send(error)
